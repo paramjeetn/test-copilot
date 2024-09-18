@@ -173,7 +173,7 @@ const RightPanel: React.FC<RightPanelProps> = ({ selectedKey, data, selectedTab 
       {selectedTab === "patient" && selectedKey && (
         <div className="h-full flex flex-col justify-between">
           {/* Golden Recommendation */}
-          <div className="flex-1 mb-4">
+          <div className="mb-4">
             <h2 className="font-semibold">Golden Recommendation</h2>
             <div className="bg-gray-100 p-2">
               {isEditing ? (
@@ -206,7 +206,7 @@ const RightPanel: React.FC<RightPanelProps> = ({ selectedKey, data, selectedTab 
           </div>
           
           {/* Medical Condition */}
-          <div className="flex-1 mb-4">
+          <div className="mb-5">
             <div className="flex items-center">
               <h2 className="font-semibold">Medical Condition</h2>
               <button
@@ -222,7 +222,7 @@ const RightPanel: React.FC<RightPanelProps> = ({ selectedKey, data, selectedTab 
           </div>
 
           {/* Recommendation */}
-          <div className="flex-1 mb-4">
+          <div className="mb-4">
             <div className="flex items-center">
               <h2 className="font-semibold">Recommendation</h2>
               <button
@@ -232,7 +232,7 @@ const RightPanel: React.FC<RightPanelProps> = ({ selectedKey, data, selectedTab 
                 {getVerificationStatusForPanel("recommendation_verified") ? "LGTM (Verified)" : "LGTM"}
               </button>
             </div>
-            <div className="bg-gray-100 p-2 overflow-y-auto max-h-32">
+            <div className="bg-gray-100 p-2 overflow-y-auto max-h-48">
               <pre>{fileData.recommendation}</pre>
             </div>
           </div>
@@ -248,7 +248,7 @@ const RightPanel: React.FC<RightPanelProps> = ({ selectedKey, data, selectedTab 
                 {getVerificationStatusForPanel("retrieved_candidates_verified") ? "LGTM (Verified)" : "LGTM"}
               </button>
             </div>
-            <div className="bg-gray-100 p-2 overflow-y-auto max-h-32">
+            <div className="bg-gray-100 p-2 overflow-y-auto max-h-48">
               <pre>{fileData.retrieve}</pre>
             </div>
           </div>
@@ -258,7 +258,7 @@ const RightPanel: React.FC<RightPanelProps> = ({ selectedKey, data, selectedTab 
       {selectedTab === "guideline" && selectedKey && (
         <div className="h-full flex flex-col justify-between">
           {/* Guideline Medical Condition */}
-          <div className="flex-1 mb-4">
+          <div className="mb-4">
             <div className="flex items-center">
               <h2 className="font-semibold">Guideline Medical Condition</h2>
               <button
@@ -274,7 +274,7 @@ const RightPanel: React.FC<RightPanelProps> = ({ selectedKey, data, selectedTab 
           </div>
 
           {/* Guideline Criteria */}
-          <div className="flex-1 mb-4">
+          <div className="mb-4">
             <div className="flex items-center">
               <h2 className="font-semibold">Guideline Criteria</h2>
               <button
@@ -284,7 +284,7 @@ const RightPanel: React.FC<RightPanelProps> = ({ selectedKey, data, selectedTab 
                 {getVerificationStatusForPanel("guideline_criteria_verified") ? "LGTM (Verified)" : "LGTM"}
               </button>
             </div>
-            <div className="bg-gray-100 p-2 overflow-y-auto max-h-32">
+            <div className="bg-gray-100 p-2 overflow-y-auto max-h-64">
               <pre>{fileData.guidelineCriteria || "No Criteria available"}</pre>
             </div>
           </div>
