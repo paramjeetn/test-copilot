@@ -1,0 +1,63 @@
+initial_state: assess_nafld_prevalence
+
+states:
+  assess_nafld_prevalence:
+    action: "Assess the prevalence of NAFLD in people with type 2 diabetes."
+    instructions:
+      - "Approximately 70% of people with type 2 diabetes have NAFLD."
+    next: determine_screening_goals
+
+  determine_screening_goals:
+    action: "Identify individuals at risk for complications from nonalcoholic steatohepatitis (NASH) to prevent liver disease-related deaths."
+    instructions:
+      - "Identify those at risk for cirrhosis and hepatocellular carcinoma."
+    next: identify_high_risk_individuals
+
+  identify_high_risk_individuals:
+    action: "Identify high-risk individuals for NAFLD screening."
+    criteria:
+      - "People with central obesity and cardiometabolic risks or insulin resistance."
+      - "Individuals >50 years of age."
+      - "Those with persistent high plasma aminotransferase levels (AST/ALT >30 units/L for >6 months)."
+    next: perform_screening
+
+  perform_screening:
+    action: "Screen high-risk individuals using the fibrosis-4 (FIB-4) index score."
+    instructions:
+      - "Calculate the FIB-4 index score based on age, ALT and AST levels, and platelet count."
+      - "Screen even if liver enzymes are normal."
+      - "Use the FIB-4 index calculation tool available online."
+    next: risk_stratification
+
+  risk_stratification:
+    action: "Perform risk stratification using noninvasive testing for fibrosis (FIB-4)."
+    next:
+      low_risk: repeat_screening_low_risk
+      indeterminate_risk: further_testing_indeterminate_risk
+      high_risk: further_testing_high_risk
+
+  repeat_screening_low_risk:
+    action: "Repeat screening in 2-3 years for individuals at low risk."
+    next: management
+
+  further_testing_indeterminate_risk:
+    action: "Perform vibration-controlled transient elastography or ELF blood test for indeterminate risk individuals."
+    next:
+      low_risk: repeat_screening_low_risk
+      high_risk: refer_to_specialist
+
+  further_testing_high_risk:
+    action: "Refer high-risk individuals to a gastroenterologist or hepatologist."
+    next: management
+
+  management:
+    action: "Manage NAFLD/NASH based on individual risk assessments."
+    instructions:
+      - "Recommend weight loss with intensive lifestyle therapy and/or metabolic surgery, as appropriate."
+      - "Use pioglitazone and GLP-1 receptor agonists as preferred agents for hyperglycemia in adults with type 2 diabetes and NASH, unless decompensated cirrhosis is present."
+      - "Treat people with type 2 diabetes and decompensated cirrhosis from NASH with insulin."
+      - "Statin therapy is safe in the setting of NAFLD. Use with caution and close monitoring in people with decompensated cirrhosis."
+    next: end
+
+  end:
+    action: "End of NAFLD management flow."

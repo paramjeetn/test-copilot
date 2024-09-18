@@ -1,0 +1,72 @@
+initial_state: screen_ckd
+
+states:
+  screen_ckd:
+    action: "Screen for Chronic Kidney Disease (CKD)"
+    applicable_to:
+      - "Everyone with type 2 diabetes"
+      - "Everyone with type 1 diabetes for ≥5 years"
+    methods:
+      - "Urinary albumin-to-creatinine ratio (UACR)"
+      - "Estimated glomerular filtration rate (eGFR)"
+    frequency: "Annually, or one to four times per year depending on disease stage"
+    next: monitor_established_ckd
+
+  monitor_established_ckd:
+    action: "Monitor established CKD using UACR and eGFR"
+    next: classify_ckd
+
+  classify_ckd:
+    action: "Classify CKD based on cause, GFR, and albuminuria"
+    conditions:
+      G1:
+        description: "Normal or high"
+        gfr: "≥90"
+        albuminuria_categories:
+          A1: "Normal to mildly increased (<30 mg/mmol)"
+          A2: "Moderately increased (30-299 mg/mmol)"
+          A3: "Severely increased (≥300 mg/mmol)"
+        next: low_risk_management
+      G2:
+        description: "Mildly decreased"
+        gfr: "60-89"
+        next: low_risk_management
+      G3a:
+        description: "Mildly to moderately decreased"
+        gfr: "45-59"
+        next: moderate_risk_management
+      G3b:
+        description: "Moderately to severely decreased"
+        gfr: "30-44"
+        next: moderate_risk_management
+      G4:
+        description: "Severely decreased"
+        gfr: "15-29"
+        next: high_risk_management
+      G5:
+        description: "Kidney failure"
+        gfr: "<15"
+        next: very_high_risk_management
+
+  low_risk_management:
+    action: "Manage low risk CKD"
+    next: reassessment
+
+  moderate_risk_management:
+    action: "Manage moderate risk CKD"
+    next: reassessment
+
+  high_risk_management:
+    action: "Manage high risk CKD"
+    next: reassessment
+
+  very_high_risk_management:
+    action: "Manage very high risk CKD"
+    next: reassessment
+
+  reassessment:
+    action: "Regular reassessment of CKD condition and management efficacy"
+    next: end
+
+  end:
+    action: "End of CKD management flow"

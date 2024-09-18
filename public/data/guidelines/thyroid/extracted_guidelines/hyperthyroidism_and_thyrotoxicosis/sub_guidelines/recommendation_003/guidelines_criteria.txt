@@ -1,0 +1,42 @@
+## Criteria for Hyperthyroidism Management Recommendations:
+
+**1. Beta-Adrenergic Receptor Blockade:**
+
+* **Clinical Parameters/Conditions:**
+    * Presence of thyrotoxicosis 
+    * Severity of thyrotoxicosis (for Esmolol use in ICU setting)
+* **Comorbidities/Health Conditions:**
+    * Pregnancy (Propranolol preferred, Atenolol & Metoprolol avoided)
+* **Patient-specific factors:**
+    * Compliance (Atenolol may increase compliance)
+
+**2. Treatment Modalities for Graves’ Hyperthyroidism:**
+
+* **Clinical Parameters/Conditions:** 
+    * Presence of Graves' Hyperthyroidism
+    * Active vs. Inactive Graves' Ophthalmopathy (GO)
+* **Comorbidities/Health Conditions:**
+    * Pregnancy (RAI excluded, ATD & Surgery preferred)
+    * Comorbidities with increased surgical risk and/or limited life expectancy (RAI & Surgery excluded, ATD preferred)
+* **Patient-specific factors:** 
+    *  Patient values and preferences regarding:
+        * Definitive control of hyperthyroidism
+        * Avoidance of surgery
+        * Potential side effects of ATDs
+        * Need for lifelong thyroid hormone replacement
+        * Rapid resolution of hyperthyroidism
+        * Potential worsening or development of GO
+        * Possibility of remission
+        * Avoidance of lifelong thyroid hormone treatment
+        * Exposure to radioactivity
+
+**3. Thyroid Receptor Antibodies (TRAb) Testing:**
+
+* **Diagnostic Criteria:**
+    * Differentiating between subacute and painless thyroiditis:
+        * Subacute thyroiditis: Painful, firm/hard gland on palpation, erythrocyte sedimentation rate usually >50 mm/hr 
+        * Painless thyroiditis: Often postpartum, personal/family history of autoimmune thyroid disease, measurable anti-thyroid peroxidase antibodies
+* **Patient-specific factors:**
+    * Patients with GD preferring RAI treatment 
+
+**Note:** This list only includes criteria directly mentioned in the provided guideline excerpt. It does not cover all possible factors relevant to hyperthyroidism management. 

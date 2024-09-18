@@ -1,0 +1,12 @@
+{
+  "patient_id": "04712763-1d9d-4bb0-8854-1a5a3a1b8320",
+  "patient_name": "Emily Thompson",
+  "age": "36",
+  "gender": "Female",
+  "current_symptoms": "Symmetrically enlarged thyroid, recent onset of mild orbitopathy, fatigue, weight loss, palpitations.",
+  "current_medications": "None",
+  "patient_risk_factors": "No recent exposure to iodine, no family history of thyroid disorders, postpartum 6 months ago.",
+  "lab_reports": "TRAb: Positive (15 IU/L), TSH: <0.01 mIU/L, Free T3: 7.5 pmol/L, Free T4: 22 pmol/L, Thyroglobulin: Normal, RAIU at 24 hours: 45%.",
+  "diagnostic_tests_and_results": "Ultrasonography with color flow Doppler: Increased thyroidal blood flow, consistent with Graves' disease; TSI: Positive",
+  "profile_summary": "Emily Thompson, a 36-year-old female, presents with symptoms of fatigue, weight loss, and palpitations. She has a symmetrically enlarged thyroid and recent onset of mild orbitopathy. Lab reports indicate a positive TRAb and TSI, suppressed TSH, elevated T3 and T4, and normal thyroglobulin levels. RAIU at 24 hours is 45%. Doppler ultrasonography shows increased thyroidal blood flow, consistent with Graves' disease. No recent iodine exposure or family history of thyroid disorders, postpartum 6 months ago."
+}

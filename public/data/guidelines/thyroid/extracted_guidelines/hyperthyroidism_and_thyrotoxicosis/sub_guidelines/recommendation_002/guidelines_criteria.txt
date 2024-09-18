@@ -1,0 +1,31 @@
+## Criteria for Beta-Adrenergic Blockade in Symptomatic Thyrotoxicosis:
+
+**1. Key Clinical Parameters:**
+
+* **Resting heart rate:** In excess of 90 beats per minute.
+
+**2. Symptom Requirements:**
+
+* **Presence of symptomatic thyrotoxicosis:**  This implies the patient is experiencing noticeable symptoms due to their hyperthyroidism.
+
+**3. Risk Factors to Consider:**
+
+* **Age:** Elderly patients.
+* **Coexistent cardiovascular disease:**  This includes but is not limited to conditions like coronary artery disease, heart failure, or arrhythmias.
+
+**4.  Relevant Comorbidities/Health Conditions to Consider:**
+
+* **Bronchospastic asthma:** Beta-blockers are generally contraindicated. 
+* **Quiescent bronchospastic asthma:** A relative β1-selective agent can be used cautiously with careful monitoring if heart rate control is essential.
+* **Mild obstructive airway disease:** A relative β1-selective agent can be used cautiously with careful monitoring.
+* **Symptomatic Raynaud’s phenomenon:** A relative β1-selective agent can be used cautiously with careful monitoring.
+
+**5.  Patient-Specific Factors:**
+
+* **Tolerance to beta-blockers:**  Alternative treatments like calcium channel blockers (verapamil or diltiazem) should be considered for patients who cannot tolerate beta-blockers.
+
+**Important Notes:**
+
+* This guideline specifically refers to the management of overt hyperthyroidism due to Graves' disease (GD).
+* The guideline emphasizes symptom relief and heart rate control as key goals of treatment.
+* The guideline acknowledges that high doses of beta-blockers may be necessary in some cases to achieve desired outcomes. 

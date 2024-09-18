@@ -1,0 +1,1 @@
+Chronic Kidney Disease (CKD),Type 2 Diabetes,Type 1 Diabetes,GFR ≥90,GFR 60-89,GFR 45-59,GFR 30-44,GFR 15-29,Kidney Failure,Normal Albuminuria,Mildly Increased Albuminuria,Moderately Increased Albuminuria,Severely Increased Albumin

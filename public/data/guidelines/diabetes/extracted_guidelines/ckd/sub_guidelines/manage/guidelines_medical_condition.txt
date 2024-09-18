@@ -1,0 +1,1 @@
+Diabetes,Chronic kidney disease (CKD),Hypertension,High blood pressure,High blood sugar,Obesity,Smoking,High cholesterol,Cardiovascular disease (ASCVD),Low eGFR,High eGFR,Albuminuria,Need for glycemic control,Need for blood pressure control,Need for additional risk-based therapy

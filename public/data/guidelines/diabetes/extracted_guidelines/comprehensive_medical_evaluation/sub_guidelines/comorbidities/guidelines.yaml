@@ -1,0 +1,61 @@
+initial_state: assess_autoimmune_conditions
+
+states:
+  assess_autoimmune_conditions:
+    action: "Screen people with type 1 diabetes for autoimmune conditions soon after diagnosis and periodically thereafter."
+    next:
+      autoimmune_thyroid_disease: autoimmune_conditions_associated
+      other_autoimmune_conditions: autoimmune_conditions_associated
+
+  autoimmune_conditions_associated:
+    action: "Assess for specific autoimmune conditions associated with type 1 diabetes."
+    conditions:
+      - "Autoimmune thyroid disease"
+      - "Celiac disease"
+      - "Pernicious anemia"
+      - "Autoimmune liver disease"
+      - "Primary adrenal insufficiency"
+      - "Collagen vascular diseases"
+      - "Myasthenia gravis"
+    next: assess_bone_health
+
+  assess_bone_health:
+    action: "Evaluate the impact of diabetes on bone health, focusing on fracture risk."
+    next: optimize_bone_health
+
+  optimize_bone_health:
+    action: "Optimize bone health in people with diabetes through screening, nutrition and activity, and pharmacotherapy."
+    next:
+      screening: bone_health_screening
+      nutrition_and_activity: bone_health_nutrition_activity
+      pharmacotherapy: bone_health_pharmacotherapy
+
+  bone_health_screening:
+    action: "Perform screening for bone health, especially in older adults and high-risk young adults."
+    instructions:
+      - "Dual-energy X-ray absorptiometry every 2-3 years"
+    next: end
+
+  bone_health_nutrition_activity:
+    action: "Counsel on nutrition and activity for bone health."
+    instructions:
+      - "Calcium and vitamin D intake"
+      - "Aerobic and weight-bearing physical activity"
+      - "Fall precautions"
+    next: end
+
+  bone_health_pharmacotherapy:
+    action: "Choose glucose-lowering medications with safe profiles for bone health."
+    instructions:
+      - "Consider antiresorptive and osteoanabolic agents for those with a T-score ≤−2.0 or previous fragility fractures."
+    next: end
+
+  assess_cancer_risk:
+    action: "Assess cancer risk in people with diabetes."
+    instructions:
+      - "Diabetes is associated with increased risk of cancers of the liver, pancreas, endometrium, colon/rectum, breast, and bladder."
+      - "Cancer screening recommendations are the same for people with diabetes as for those without diabetes."
+    next: end
+
+  end:
+    action: "End of assessment flow."

@@ -1,0 +1,108 @@
+{
+  "patients": {
+    "04712763-1d9d-4bb0-8854-za6a1a1b8330": {
+      "medical_condition_verified": true,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "s1f4cd1b-f446-4b43-8837-232186d0w213": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "04712761-1d9q-4bb1-2132-1a1a3a1b8329": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "04712763-1d9d-1nn2-2312-1a5a3a1b8320": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c0f4cd8b-f146-2e24-1231-600186d0d608": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "04712763-1d9d-1nn2-2131-1a5a3a1b8320": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "04703824-1d9d-4bb0-8854-1a5a3a1b8320": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "04712763-1d9d-4bb0-8854-1a5a3a1b8320": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c0f4cd8b-f146-4b43-8837-600186d0d608": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bd81520e-baad-42fb-a183-991557fa0359": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "fc93f502-1b76-4b4d-9b4d-efe62988f3da": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "69926f26-fb94-4d74-b7dd-067b8b402a5a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "45ca2c29-200d-449e-a427-d3fdf63bf246": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d3b91637-bbbe-41f9-bf3f-baf6be68fe0c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    }
+  },
+  "guidelines": {
+    "manage": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": true
+    },
+    "screening": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "algo_risk_stratification": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "comorbidities": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "glycemic_management": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_001": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_002": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_003": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    }
+  }
+}

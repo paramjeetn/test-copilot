@@ -1,0 +1,12 @@
+{
+  "patient_id": "bd81520e-baad-42fb-a183-991557fa0359",
+  "patient_name": "Alice Johnson",
+  "age": "34",
+  "gender": "Female",
+  "current_symptoms": "Symmetrically enlarged thyroid, recent onset of orbitopathy, mild weight loss, palpitations",
+  "current_medications": "Multivitamin, occasional ibuprofen for headaches",
+  "patient_risk_factors": "No recent exposure to iodine, family history of autoimmune thyroid disease (mother with Hashimoto's thyroiditis)",
+  "lab_reports": "Elevated TRAb levels, TSH Binding Inhibition Immunoglobulin (TBII) positive, elevated Thyroid Stimulating Immunoglobulin (TSI), high T3 to T4 ratio of 22, thyroglobulin levels within normal range",
+  "diagnostic_tests_and_results": "Ultrasonography with color flow Doppler showing increased thyroidal blood flow, 24-hour RAIU showing elevated uptake indicative of Graves' Disease (GD)",
+  "profile_summary": "Alice Johnson, a 34-year-old female, presented with a symmetrically enlarged thyroid gland and recent onset of orbitopathy. She complains of mild weight loss and heart palpitations. Her family history includes autoimmune thyroid disease. Lab tests revealed elevated TRAb levels, positive TBII and TSI assays, and a high T3 to T4 ratio. Ultrasonography showed increased thyroidal blood flow, and a 24-hour RAIU measurement confirmed elevated uptake consistent with GD."
+}

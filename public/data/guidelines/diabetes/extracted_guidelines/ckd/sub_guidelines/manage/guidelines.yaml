@@ -1,0 +1,64 @@
+initial_state: initiate_lifestyle_changes
+
+states:
+  initiate_lifestyle_changes:
+    action: "Start with lifestyle changes including healthy diet, physical activity, smoking cessation, and weight management"
+    next: assess_first_line_drug_therapy
+
+  assess_first_line_drug_therapy:
+    action: "Determine appropriate first-line drug therapy based on eGFR and patient's hypertensive status"
+    next:
+      low_eGFR: sgl2t_initiation
+      high_eGFR: metformin_initiation
+      has_hypertension: ras_inhibitor_initiation
+
+  sgl2t_initiation:
+    action: "Initiate SGLT2 if eGFR ≥20; continue until dialysis or transplant needed"
+    next: regular_reassessment
+
+  metformin_initiation:
+    action: "Administer Metformin if eGFR ≥30"
+    next: regular_reassessment
+
+  ras_inhibitor_initiation:
+    action: "Start RAS inhibitor at maximum tolerated dose if hypertension present"
+    next: regular_reassessment
+
+  regular_reassessment:
+    action: "Regularly reassess glycemia, albuminuria, and blood pressure"
+    next: additional_risk_based_therapy
+
+  additional_risk_based_therapy:
+    action: "Implement additional therapies based on individual risk assessments"
+    next:
+      need_glycemic_control: glp1_ra_therapy
+      high_acr: nsaid_mra_therapy
+      need_bp_control: ccb_diuretic_therapy
+      ascvd_risk: antiplatelet_lipid_therapy
+
+  glp1_ra_therapy:
+    action: "Administer GLP-1 RA if needed to achieve individualized glycemic target"
+    next: clinical_tips
+
+  nsaid_mra_therapy:
+    action: "Consider NSAID or MRA if ACR ≥30 mg/g and potassium levels are normal"
+    next: clinical_tips
+
+  ccb_diuretic_therapy:
+    action: "Use Dihydropyridine CCB and/or diuretic if needed to achieve individualized BP target"
+    next: clinical_tips
+
+  antiplatelet_lipid_therapy:
+    action: "Start Antiplatelet agent for clinical ASCVD and adjust lipid therapy as necessary"
+    next: clinical_tips
+
+  clinical_tips:
+    action: "Follow clinical tips for ongoing management"
+    instructions:
+      - "Periodically check serum creatinine and potassium levels when using ACE inhibitors or ARBs"
+      - "Do not discontinue ACE inhibitor or ARB therapy for increases ≤30% in serum creatinine in the absence of volume depletion"
+      - "Aim for a urinary albumin reduction ≥30% in people with CKD and urinary albumin ≥300 mg/g to slow CKD progression"
+    next: end
+
+  end:
+    action: "End of treatment flow"

@@ -1,0 +1,7 @@
+diabetes_care_in_hospital:
+  section: "Diabetes Care in the Hospital"
+  glycemic_management_during_hospitalization:
+    guideline: "Carefully managing people with diabetes during hospitalization can reduce the risk of hyperglycemia, hypoglycemia, or extreme glucose variability, which all lead to adverse outcomes, including death."
+    recommendation: "Consult with a specialized diabetes or glucose management team when possible."
+  references:
+    - citation: "Downloaded from http://diabetesjournals.org/clinical/article-pdf/42/220/756265/diaclincd24-a011.pdf by guest on 29 April 2024."

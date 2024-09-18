@@ -1,0 +1,55 @@
+Hyperthyroidism Management Guidelines (Table 4)
+
+Beta-Adrenergic Receptor Blockade in The Treatment of Thyrotoxicosis:
+
+Propranolol: 10-40 mg, 3-4 times per day
+Nonselective β-adrenergic receptor blockade
+Longest experience
+May block T4 to T3 conversion at high doses
+Preferred agent for nursing and pregnant mothers
+Atenolol: 25–100 mg, 1-2 times per day
+Relative β-1 selectivity
+Increased compliance
+Avoid during pregnancy
+Metoprolol: 25–50 mg, 2-3 times per day
+Relative β-1 selectivity
+Avoid during pregnancy
+Nadolol: 40–160 mg, once daily
+Nonselective β-adrenergic receptor blockade
+Once daily
+Least experience to date
+Esmolol: IV pump 50–100 µg/kg/min
+May block T4 to T3 conversion at high doses
+In intensive care unit setting of severe thyrotoxicosis or storm
+2. Clinical Situations That Favor a Particular Modality as Treatment for Graves’ Hyperthyroidism (Table 5)
+
+Clinical Situations:
+
+Pregnancy:
+RAI: x
+ATD: √√!
+Surgery: √√!
+Comorbidities with increased surgical risk and/or limited life expectancy:
+RAI: x
+ATD: √√
+Surgery: x
+Active GO:
+RAI: ↓
+ATD: √
+Surgery: √
+Inactive GO:
+RAI: √
+ATD: √
+Surgery: √
+Major adverse reactions to ATDs:
+RAI: √√
+ATD: x
+Surgery: √√
+Patient Values that may Impact Choice of Therapy:
+
+RAI therapy: Patients choosing RAI therapy as treatment for GD would likely place relatively higher value on definitive control of hyperthyroidism, the avoidance of surgery, and the potential side effects of ATDs, as well as a relative lower value on the need for lifelong thyroid hormone replacement, rapid resolution of hyperthyroidism, and potential worsening or development of GO.
+ATDs: Patients choosing ATD treatment for GD would place relatively higher value on the possibility of remission and the avoidance of lifelong thyroid hormone treatment, the avoidance of surgery, and exposure to radioactivity and a relatively lower value on the avoidance of ATD side effects.
+3. Thyroid Receptor Antibodies (TRAb) Testing:
+
+Measurement of TRAb: In patients with GD, measuring TRAb in a patient who prefers RAI treatment will provide a baseline dose information and facilitate the calculation of the RAI dose (Section ID).
+Significance of TRAb: Distinct between subacute and painless thyroiditis is not difficult. Subacute thyroiditis is generally painful, the gland is firm to hard on palpation, and the erythrocyte sedimentation rate is usually >50 mm/hr and sometimes over 100 mm/hr. Patients with painless thyroiditis presenting within the first year after childbirth (postpartum thyroiditis) often have a personal or family history of auto-immune thyroid disease and typically have measurable serum concentrations of anti-thyroid peroxidase antibodies.

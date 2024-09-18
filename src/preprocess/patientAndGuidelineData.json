@@ -1,0 +1,146 @@
+{
+  "patient": {
+    "04712763-1d9d-4bb0-8854-za6a1a1b8330": {
+      "patient_profile_file_path": "/data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/manage/patients/patient_profile_001.txt",
+      "medical_condition_path": "/data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/manage/patients/patient_profile_001_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/04712763-1d9d-4bb0-8854-za6a1a1b8330.json",
+      "retrieve_result_path": "/data/output/retrieve_results/04712763-1d9d-4bb0-8854-za6a1a1b8330.json"
+    },
+    "s1f4cd1b-f446-4b43-8837-232186d0w213": {
+      "patient_profile_file_path": "/data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/manage/patients/patient_profile_002.txt",
+      "medical_condition_path": "/data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/manage/patients/patient_profile_002_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/s1f4cd1b-f446-4b43-8837-232186d0w213.json",
+      "retrieve_result_path": "/data/output/retrieve_results/s1f4cd1b-f446-4b43-8837-232186d0w213.json"
+    },
+    "04712761-1d9q-4bb1-2132-1a1a3a1b8329": {
+      "patient_profile_file_path": "/data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/screening/patients/patient_profile_001.txt",
+      "medical_condition_path": "/data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/screening/patients/patient_profile_001_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/04712761-1d9q-4bb1-2132-1a1a3a1b8329.json",
+      "retrieve_result_path": "/data/output/retrieve_results/04712761-1d9q-4bb1-2132-1a1a3a1b8329.json"
+    },
+    "04712763-1d9d-1nn2-2312-1a5a3a1b8320": {
+      "patient_profile_file_path": "/data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/algo_risk_stratification/patients/patient_profile_001.txt",
+      "medical_condition_path": "/data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/algo_risk_stratification/patients/patient_profile_001_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/04712763-1d9d-1nn2-2312-1a5a3a1b8320.json",
+      "retrieve_result_path": "/data/output/retrieve_results/04712763-1d9d-1nn2-2312-1a5a3a1b8320.json"
+    },
+    "c0f4cd8b-f146-2e24-1231-600186d0d608": {
+      "patient_profile_file_path": "/data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/algo_risk_stratification/patients/patient_profile_002.txt",
+      "medical_condition_path": "/data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/algo_risk_stratification/patients/patient_profile_002_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/c0f4cd8b-f146-2e24-1231-600186d0d608.json",
+      "retrieve_result_path": "/data/output/retrieve_results/c0f4cd8b-f146-2e24-1231-600186d0d608.json"
+    },
+    "04712763-1d9d-1nn2-2131-1a5a3a1b8320": {
+      "patient_profile_file_path": "/data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/comorbidities/patients/patient_profile_001.txt",
+      "medical_condition_path": "/data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/comorbidities/patients/patient_profile_001_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/04712763-1d9d-1nn2-2131-1a5a3a1b8320.json",
+      "retrieve_result_path": "/data/output/retrieve_results/04712763-1d9d-1nn2-2131-1a5a3a1b8320.json"
+    },
+    "04703824-1d9d-4bb0-8854-1a5a3a1b8320": {
+      "patient_profile_file_path": "/data/guidelines/diabetes/extracted_guidelines/diabetes_care_in_hospital/sub_guidelines/glycemic_management/patients/patient_profile_001.txt",
+      "medical_condition_path": "/data/guidelines/diabetes/extracted_guidelines/diabetes_care_in_hospital/sub_guidelines/glycemic_management/patients/patient_profile_001_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/04703824-1d9d-4bb0-8854-1a5a3a1b8320.json",
+      "retrieve_result_path": "/data/output/retrieve_results/04703824-1d9d-4bb0-8854-1a5a3a1b8320.json"
+    },
+    "04712763-1d9d-4bb0-8854-1a5a3a1b8320": {
+      "patient_profile_file_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_001/patients/patient_profile_001.txt",
+      "medical_condition_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_001/patients/patient_profile_001_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/04712763-1d9d-4bb0-8854-1a5a3a1b8320.json",
+      "retrieve_result_path": "/data/output/retrieve_results/04712763-1d9d-4bb0-8854-1a5a3a1b8320.json"
+    },
+    "c0f4cd8b-f146-4b43-8837-600186d0d608": {
+      "patient_profile_file_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_001/patients/patient_profile_002.txt",
+      "medical_condition_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_001/patients/patient_profile_002_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/c0f4cd8b-f146-4b43-8837-600186d0d608.json",
+      "retrieve_result_path": "/data/output/retrieve_results/c0f4cd8b-f146-4b43-8837-600186d0d608.json"
+    },
+    "bd81520e-baad-42fb-a183-991557fa0359": {
+      "patient_profile_file_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_001/patients/patient_profile_003.txt",
+      "medical_condition_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_001/patients/patient_profile_003_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/bd81520e-baad-42fb-a183-991557fa0359.json",
+      "retrieve_result_path": "/data/output/retrieve_results/bd81520e-baad-42fb-a183-991557fa0359.json"
+    },
+    "fc93f502-1b76-4b4d-9b4d-efe62988f3da": {
+      "patient_profile_file_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_002/patients/patient_profile_001.txt",
+      "medical_condition_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_002/patients/patient_profile_001_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/fc93f502-1b76-4b4d-9b4d-efe62988f3da.json",
+      "retrieve_result_path": "/data/output/retrieve_results/fc93f502-1b76-4b4d-9b4d-efe62988f3da.json"
+    },
+    "69926f26-fb94-4d74-b7dd-067b8b402a5a": {
+      "patient_profile_file_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_002/patients/patient_profile_002.txt",
+      "medical_condition_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_002/patients/patient_profile_002_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/69926f26-fb94-4d74-b7dd-067b8b402a5a.json",
+      "retrieve_result_path": "/data/output/retrieve_results/69926f26-fb94-4d74-b7dd-067b8b402a5a.json"
+    },
+    "45ca2c29-200d-449e-a427-d3fdf63bf246": {
+      "patient_profile_file_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_002/patients/patient_profile_003.txt",
+      "medical_condition_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_002/patients/patient_profile_003_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/45ca2c29-200d-449e-a427-d3fdf63bf246.json",
+      "retrieve_result_path": "/data/output/retrieve_results/45ca2c29-200d-449e-a427-d3fdf63bf246.json"
+    },
+    "d3b91637-bbbe-41f9-bf3f-baf6be68fe0c": {
+      "patient_profile_file_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_003/patients/patient_profile_001.txt",
+      "medical_condition_path": "/data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_003/patients/patient_profile_001_medical_conditions.txt",
+      "reccomendation_path": "/data/output/recommendations/d3b91637-bbbe-41f9-bf3f-baf6be68fe0c.json",
+      "retrieve_result_path": "/data/output/retrieve_results/d3b91637-bbbe-41f9-bf3f-baf6be68fe0c.json"
+    }
+  },
+  "guideline": {
+    "manage": {
+      "parent_file_name": "manage",
+      "guideline_file_path": "data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/manage/guidelines.yaml",
+      "guideline_medical_condition_path": "data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/manage/guidelines_medical_condition.txt",
+      "guideline_criteria_path": "data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/manage/guidelines_criteria.txt",
+      "main_guideline_path": "data/guidelines/diabetes/extracted_guidelines/ckd/Chronic_Kidney_Disease_abridged.pdf"
+    },
+    "screening": {
+      "parent_file_name": "screening",
+      "guideline_file_path": "data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/screening/guidelines.yaml",
+      "guideline_medical_condition_path": "data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/screening/guidelines_medical_condition.txt",
+      "guideline_criteria_path": "data/guidelines/diabetes/extracted_guidelines/ckd/sub_guidelines/screening/guidelines_criteria.txt",
+      "main_guideline_path": "data/guidelines/diabetes/extracted_guidelines/ckd/Chronic_Kidney_Disease_abridged.pdf"
+    },
+    "algo_risk_stratification": {
+      "parent_file_name": "algo_risk_stratification",
+      "guideline_file_path": "data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/algo_risk_stratification/guidelines.yaml",
+      "guideline_medical_condition_path": "data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/algo_risk_stratification/guidelines_medical_condition.txt",
+      "guideline_criteria_path": "data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/algo_risk_stratification/guidelines_criteria.txt",
+      "main_guideline_path": "data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/Comprehensive_Medical_Evaluation_abridged.pdf"
+    },
+    "comorbidities": {
+      "parent_file_name": "comorbidities",
+      "guideline_file_path": "data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/comorbidities/guidelines.yaml",
+      "guideline_medical_condition_path": "data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/comorbidities/guidelines_medical_condition.txt",
+      "guideline_criteria_path": "data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/sub_guidelines/comorbidities/guidelines_criteria.txt",
+      "main_guideline_path": "data/guidelines/diabetes/extracted_guidelines/comprehensive_medical_evaluation/Comprehensive_Medical_Evaluation_abridged.pdf"
+    },
+    "glycemic_management": {
+      "parent_file_name": "glycemic_management",
+      "guideline_file_path": "data/guidelines/diabetes/extracted_guidelines/diabetes_care_in_hospital/sub_guidelines/glycemic_management/guidelines.yaml",
+      "guideline_medical_condition_path": "data/guidelines/diabetes/extracted_guidelines/diabetes_care_in_hospital/sub_guidelines/glycemic_management/guidelines_medical_condition.txt",
+      "guideline_criteria_path": "data/guidelines/diabetes/extracted_guidelines/diabetes_care_in_hospital/sub_guidelines/glycemic_management/guidelines_criteria.txt",
+      "main_guideline_path": "data/guidelines/diabetes/extracted_guidelines/diabetes_care_in_hospital/hospital_abridged.pdf"
+    },
+    "recommendation_001": {
+      "parent_file_name": "recommendation_001",
+      "guideline_file_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_001/guidelines.txt",
+      "guideline_medical_condition_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_001/guidelines_medical_condition.txt",
+      "guideline_criteria_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_001/guidelines_criteria.txt",
+      "main_guideline_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/American_Thyroid_Assoc_Hyperthyroid_guidelines_2016.pdf"
+    },
+    "recommendation_002": {
+      "parent_file_name": "recommendation_002",
+      "guideline_file_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_002/guidelines.txt",
+      "guideline_medical_condition_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_002/guidelines_medical_condition.txt",
+      "guideline_criteria_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_002/guidelines_criteria.txt",
+      "main_guideline_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/American_Thyroid_Assoc_Hyperthyroid_guidelines_2016.pdf"
+    },
+    "recommendation_003": {
+      "parent_file_name": "recommendation_003",
+      "guideline_file_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_003/guidelines.txt",
+      "guideline_medical_condition_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_003/guidelines_medical_condition.txt",
+      "guideline_criteria_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/sub_guidelines/recommendation_003/guidelines_criteria.txt",
+      "main_guideline_path": "data/guidelines/thyroid/extracted_guidelines/hyperthyroidism_and_thyrotoxicosis/American_Thyroid_Assoc_Hyperthyroid_guidelines_2016.pdf"
+    }
+  }
+}

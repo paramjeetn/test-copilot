@@ -1,0 +1,41 @@
+Here is a comprehensive list of criteria based on the recommendations given in the guideline:
+
+1. **Key Clinical Parameters**
+   - Measurement of TRAb levels.
+   - Radioactive iodine uptake (RAIU) measurements.
+   - Measurement of thyroidal blood flow using ultrasonography with color flow Doppler.
+   - TRAb, TSH Binding Inhibition Immunoglobulin (TBII), Thyroid Stimulating Immunoglobulin (TSI) assays.
+   - Ratios of total T3 to total T4.
+   - Thyroglobulin levels, especially when assessing for exogenous thyroid hormone ingestion.
+
+2. **Symptom Requirements or Limitations**
+   - Symmetrically enlarged thyroid and recent onset of orbitopathy in patients likely indicating GD.
+   - Presence or absence of orbitopathy for TRAb or RAIU measurement to distinguish GD from other etiologies.
+   - Pain in subacute thyroiditis (generally painful and firm to hard on palpation).
+
+3. **Risk Factors to Consider or Exclude**
+   - Recent exposure to iodine (e.g., radiocontrast, diet rich in iodine).
+   - Postpartum thyroiditis often linked to a personal or family history of autoimmune thyroid disease.
+   - Factitious ingestion of thyroid hormone, indicated by a low serum thyroglobulin level and near-zero RAIU.
+
+4. **Timeframes or Duration Requirements**
+   - Radioactive iodine uptake (RAIU) measurements usually taken after a fixed interval, typically 24 hours for Iodine or 20 minutes for Technetium.
+   - Recent iodine exposure consideration period of 1-2 months.
+
+5. **Specific Diagnostic Criteria**
+   - Symmetrically enlarged thyroid with orbitopathy indicating likely GD without further testing.
+   - Use of TRAb measurements to confirm GD; if negative, consider other tests.
+   - High T3 to T4 ratio (>20) indicating GD or toxic nodular goiter; low ratio (<20) indicating painless or postpartum thyroiditis.
+   - Elevated RAIU indicating GD or toxic nodular goiter; near-zero RAIU for thyroiditis, factitious ingestion, or recent iodine excess.
+   - Pattern of RAI uptake for distinguishing TA or TMNG, and differentiating GD from other causes.
+
+6. **Relevant Comorbidities or Health Conditions**
+   - Pregnancy and breastfeeding where certain tests like RAIU are contraindicated.
+   - Amiodarone-induced thyrotoxicosis differentiated by subtypes.
+   
+7. **Patient-Specific Factors**
+   - Preference for specific treatments (e.g., methimazole, RAI treatment).
+   - Quality of life considerations and potential remission outcomes based on TRAb levels.
+   - Use of Doppler flow ultrasonography when RAI is contraindicated.
+
+These criteria are directly taken from the guideline's recommendations and provide a structured approach to diagnosing and managing thyrotoxicosis.

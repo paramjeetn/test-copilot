@@ -1,0 +1,12 @@
+{
+  "patient_id": "fc93f502-1b76-4b4d-9b4d-efe62988f3da",
+  "patient_name": "George Thompson",
+  "age": "70",
+  "gender": "Male",
+  "current_symptoms": "Palpitations, increased sweating, heat intolerance, weight loss, anxiety",
+  "current_medications": "Aspirin 81 mg daily, Atorvastatin 20 mg daily, Lisinopril 10 mg daily",
+  "patient_risk_factors": "Elderly, history of coronary artery disease",
+  "lab_reports": "Thyroid function test: TSH < 0.01 \u00b5IU/mL, Free T4 = 4.5 ng/dL, Free T3 = 15 pg/mL",
+  "diagnostic_tests_and_results": "ECG: Sinus tachycardia with heart rate of 105 bpm, no ischemic changes; Echocardiogram: Normal left ventricular function",
+  "profile_summary": "70-year-old male with symptomatic thyrotoxicosis, experiencing palpitations, increased sweating, heat intolerance, weight loss, and anxiety. History of coronary artery disease under treatment with aspirin, atorvastatin, and lisinopril. Lab reports confirm hyperthyroidism. ECG shows sinus tachycardia, and echocardiogram shows normal left ventricular function."
+}
