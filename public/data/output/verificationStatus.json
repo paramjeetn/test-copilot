@@ -1,7 +1,7 @@
 {
   "patients": {
     "04712763-1d9d-4bb0-8854-za6a1a1b8330": {
-      "medical_condition_verified": true,
+      "medical_condition_verified": false,
       "recommendation_verified": false,
       "retrieved_candidates_verified": false
     },
@@ -74,7 +74,7 @@
   "guidelines": {
     "manage": {
       "guideline_medical_condition_verified": false,
-      "guideline_criteria_verified": true
+      "guideline_criteria_verified": false
     },
     "screening": {
       "guideline_medical_condition_verified": false,

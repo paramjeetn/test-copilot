@@ -1,7 +1,6 @@
 {
   "patient_id": "fc93f502-1b76-4b4d-9b4d-efe62988f3da",
   "patient_file": "patient_001",
-  "folder": "thyroid/recommendation_002",
-  "retrieved_result": "to be found"
+  "folder": "diabetes/comorbidities"
 }
 
