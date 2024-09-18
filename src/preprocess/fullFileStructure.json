@@ -617,173 +617,264 @@
     "path": "output",
     "children": [
       {
-        "name": "golden_recommendation",
+        "name": "run_001",
         "type": "directory",
-        "path": "output/golden_recommendation",
+        "path": "output/run_001",
         "children": [
           {
-            "name": "04712763-1d9d-4bb0-8854-za6a1a1b8330.txt",
-            "type": "file",
-            "path": "output/golden_recommendation/04712763-1d9d-4bb0-8854-za6a1a1b8330.txt"
+            "name": "04703824-1d9d-4bb0-8854-1a5a3a1b8320",
+            "type": "directory",
+            "path": "output/run_001/04703824-1d9d-4bb0-8854-1a5a3a1b8320",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/04703824-1d9d-4bb0-8854-1a5a3a1b8320/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/04703824-1d9d-4bb0-8854-1a5a3a1b8320/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "s1f4cd1b-f446-4b43-8837-232186d0w213.txt",
-            "type": "file",
-            "path": "output/golden_recommendation/s1f4cd1b-f446-4b43-8837-232186d0w213.txt"
-          }
-        ]
-      },
-      {
-        "name": "recommendations",
-        "type": "directory",
-        "path": "output/recommendations",
-        "children": [
-          {
-            "name": "04703824-1d9d-4bb0-8854-1a5a3a1b8320.json",
-            "type": "file",
-            "path": "output/recommendations/04703824-1d9d-4bb0-8854-1a5a3a1b8320.json"
+            "name": "04712761-1d9q-4bb1-2132-1a1a3a1b8329",
+            "type": "directory",
+            "path": "output/run_001/04712761-1d9q-4bb1-2132-1a1a3a1b8329",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/04712761-1d9q-4bb1-2132-1a1a3a1b8329/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/04712761-1d9q-4bb1-2132-1a1a3a1b8329/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "04712761-1d9q-4bb1-2132-1a1a3a1b8329.json",
-            "type": "file",
-            "path": "output/recommendations/04712761-1d9q-4bb1-2132-1a1a3a1b8329.json"
+            "name": "04712763-1d9d-1nn2-2131-1a5a3a1b8320",
+            "type": "directory",
+            "path": "output/run_001/04712763-1d9d-1nn2-2131-1a5a3a1b8320",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/04712763-1d9d-1nn2-2131-1a5a3a1b8320/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/04712763-1d9d-1nn2-2131-1a5a3a1b8320/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "04712763-1d9d-1nn2-2131-1a5a3a1b8320.json",
-            "type": "file",
-            "path": "output/recommendations/04712763-1d9d-1nn2-2131-1a5a3a1b8320.json"
+            "name": "04712763-1d9d-1nn2-2312-1a5a3a1b8320",
+            "type": "directory",
+            "path": "output/run_001/04712763-1d9d-1nn2-2312-1a5a3a1b8320",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/04712763-1d9d-1nn2-2312-1a5a3a1b8320/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/04712763-1d9d-1nn2-2312-1a5a3a1b8320/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "04712763-1d9d-1nn2-2312-1a5a3a1b8320.json",
-            "type": "file",
-            "path": "output/recommendations/04712763-1d9d-1nn2-2312-1a5a3a1b8320.json"
+            "name": "04712763-1d9d-4bb0-8854-1a5a3a1b8320",
+            "type": "directory",
+            "path": "output/run_001/04712763-1d9d-4bb0-8854-1a5a3a1b8320",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/04712763-1d9d-4bb0-8854-1a5a3a1b8320/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/04712763-1d9d-4bb0-8854-1a5a3a1b8320/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "04712763-1d9d-4bb0-8854-1a5a3a1b8320.json",
-            "type": "file",
-            "path": "output/recommendations/04712763-1d9d-4bb0-8854-1a5a3a1b8320.json"
+            "name": "04712763-1d9d-4bb0-8854-za6a1a1b8330",
+            "type": "directory",
+            "path": "output/run_001/04712763-1d9d-4bb0-8854-za6a1a1b8330",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/04712763-1d9d-4bb0-8854-za6a1a1b8330/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/04712763-1d9d-4bb0-8854-za6a1a1b8330/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "04712763-1d9d-4bb0-8854-za6a1a1b8330.json",
-            "type": "file",
-            "path": "output/recommendations/04712763-1d9d-4bb0-8854-za6a1a1b8330.json"
+            "name": "45ca2c29-200d-449e-a427-d3fdf63bf246",
+            "type": "directory",
+            "path": "output/run_001/45ca2c29-200d-449e-a427-d3fdf63bf246",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/45ca2c29-200d-449e-a427-d3fdf63bf246/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/45ca2c29-200d-449e-a427-d3fdf63bf246/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "45ca2c29-200d-449e-a427-d3fdf63bf246.json",
-            "type": "file",
-            "path": "output/recommendations/45ca2c29-200d-449e-a427-d3fdf63bf246.json"
+            "name": "69926f26-fb94-4d74-b7dd-067b8b402a5a",
+            "type": "directory",
+            "path": "output/run_001/69926f26-fb94-4d74-b7dd-067b8b402a5a",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/69926f26-fb94-4d74-b7dd-067b8b402a5a/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/69926f26-fb94-4d74-b7dd-067b8b402a5a/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "69926f26-fb94-4d74-b7dd-067b8b402a5a.json",
-            "type": "file",
-            "path": "output/recommendations/69926f26-fb94-4d74-b7dd-067b8b402a5a.json"
+            "name": "bd81520e-baad-42fb-a183-991557fa0359",
+            "type": "directory",
+            "path": "output/run_001/bd81520e-baad-42fb-a183-991557fa0359",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/bd81520e-baad-42fb-a183-991557fa0359/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/bd81520e-baad-42fb-a183-991557fa0359/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "bd81520e-baad-42fb-a183-991557fa0359.json",
-            "type": "file",
-            "path": "output/recommendations/bd81520e-baad-42fb-a183-991557fa0359.json"
+            "name": "c0f4cd8b-f146-2e24-1231-600186d0d608",
+            "type": "directory",
+            "path": "output/run_001/c0f4cd8b-f146-2e24-1231-600186d0d608",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/c0f4cd8b-f146-2e24-1231-600186d0d608/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/c0f4cd8b-f146-2e24-1231-600186d0d608/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "c0f4cd8b-f146-2e24-1231-600186d0d608.json",
-            "type": "file",
-            "path": "output/recommendations/c0f4cd8b-f146-2e24-1231-600186d0d608.json"
+            "name": "c0f4cd8b-f146-4b43-8837-600186d0d608",
+            "type": "directory",
+            "path": "output/run_001/c0f4cd8b-f146-4b43-8837-600186d0d608",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/c0f4cd8b-f146-4b43-8837-600186d0d608/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/c0f4cd8b-f146-4b43-8837-600186d0d608/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "c0f4cd8b-f146-4b43-8837-600186d0d608.json",
-            "type": "file",
-            "path": "output/recommendations/c0f4cd8b-f146-4b43-8837-600186d0d608.json"
+            "name": "d3b91637-bbbe-41f9-bf3f-baf6be68fe0c",
+            "type": "directory",
+            "path": "output/run_001/d3b91637-bbbe-41f9-bf3f-baf6be68fe0c",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/d3b91637-bbbe-41f9-bf3f-baf6be68fe0c/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/d3b91637-bbbe-41f9-bf3f-baf6be68fe0c/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "d3b91637-bbbe-41f9-bf3f-baf6be68fe0c.json",
-            "type": "file",
-            "path": "output/recommendations/d3b91637-bbbe-41f9-bf3f-baf6be68fe0c.json"
+            "name": "fc93f502-1b76-4b4d-9b4d-efe62988f3da",
+            "type": "directory",
+            "path": "output/run_001/fc93f502-1b76-4b4d-9b4d-efe62988f3da",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/fc93f502-1b76-4b4d-9b4d-efe62988f3da/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/fc93f502-1b76-4b4d-9b4d-efe62988f3da/retrieve_docs.json"
+              }
+            ]
           },
           {
-            "name": "fc93f502-1b76-4b4d-9b4d-efe62988f3da.json",
-            "type": "file",
-            "path": "output/recommendations/fc93f502-1b76-4b4d-9b4d-efe62988f3da.json"
+            "name": "golden_recommendation",
+            "type": "directory",
+            "path": "output/run_001/golden_recommendation",
+            "children": [
+              {
+                "name": "04712763-1d9d-4bb0-8854-za6a1a1b8330.txt",
+                "type": "file",
+                "path": "output/run_001/golden_recommendation/04712763-1d9d-4bb0-8854-za6a1a1b8330.txt"
+              },
+              {
+                "name": "s1f4cd1b-f446-4b43-8837-232186d0w213.txt",
+                "type": "file",
+                "path": "output/run_001/golden_recommendation/s1f4cd1b-f446-4b43-8837-232186d0w213.txt"
+              }
+            ]
           },
           {
-            "name": "s1f4cd1b-f446-4b43-8837-232186d0w213.json",
-            "type": "file",
-            "path": "output/recommendations/s1f4cd1b-f446-4b43-8837-232186d0w213.json"
-          }
-        ]
-      },
-      {
-        "name": "retrieve_results",
-        "type": "directory",
-        "path": "output/retrieve_results",
-        "children": [
-          {
-            "name": "04703824-1d9d-4bb0-8854-1a5a3a1b8320.json",
-            "type": "file",
-            "path": "output/retrieve_results/04703824-1d9d-4bb0-8854-1a5a3a1b8320.json"
-          },
-          {
-            "name": "04712761-1d9q-4bb1-2132-1a1a3a1b8329.json",
-            "type": "file",
-            "path": "output/retrieve_results/04712761-1d9q-4bb1-2132-1a1a3a1b8329.json"
-          },
-          {
-            "name": "04712763-1d9d-1nn2-2131-1a5a3a1b8320.json",
-            "type": "file",
-            "path": "output/retrieve_results/04712763-1d9d-1nn2-2131-1a5a3a1b8320.json"
-          },
-          {
-            "name": "04712763-1d9d-1nn2-2312-1a5a3a1b8320.json",
-            "type": "file",
-            "path": "output/retrieve_results/04712763-1d9d-1nn2-2312-1a5a3a1b8320.json"
-          },
-          {
-            "name": "04712763-1d9d-4bb0-8854-1a5a3a1b8320.json",
-            "type": "file",
-            "path": "output/retrieve_results/04712763-1d9d-4bb0-8854-1a5a3a1b8320.json"
-          },
-          {
-            "name": "04712763-1d9d-4bb0-8854-za6a1a1b8330.json",
-            "type": "file",
-            "path": "output/retrieve_results/04712763-1d9d-4bb0-8854-za6a1a1b8330.json"
-          },
-          {
-            "name": "45ca2c29-200d-449e-a427-d3fdf63bf246.json",
-            "type": "file",
-            "path": "output/retrieve_results/45ca2c29-200d-449e-a427-d3fdf63bf246.json"
-          },
-          {
-            "name": "69926f26-fb94-4d74-b7dd-067b8b402a5a.json",
-            "type": "file",
-            "path": "output/retrieve_results/69926f26-fb94-4d74-b7dd-067b8b402a5a.json"
-          },
-          {
-            "name": "bd81520e-baad-42fb-a183-991557fa0359.json",
-            "type": "file",
-            "path": "output/retrieve_results/bd81520e-baad-42fb-a183-991557fa0359.json"
-          },
-          {
-            "name": "c0f4cd8b-f146-2e24-1231-600186d0d608.json",
-            "type": "file",
-            "path": "output/retrieve_results/c0f4cd8b-f146-2e24-1231-600186d0d608.json"
-          },
-          {
-            "name": "c0f4cd8b-f146-4b43-8837-600186d0d608.json",
-            "type": "file",
-            "path": "output/retrieve_results/c0f4cd8b-f146-4b43-8837-600186d0d608.json"
-          },
-          {
-            "name": "d3b91637-bbbe-41f9-bf3f-baf6be68fe0c.json",
-            "type": "file",
-            "path": "output/retrieve_results/d3b91637-bbbe-41f9-bf3f-baf6be68fe0c.json"
-          },
-          {
-            "name": "fc93f502-1b76-4b4d-9b4d-efe62988f3da.json",
-            "type": "file",
-            "path": "output/retrieve_results/fc93f502-1b76-4b4d-9b4d-efe62988f3da.json"
-          },
-          {
-            "name": "s1f4cd1b-f446-4b43-8837-232186d0w213.json",
-            "type": "file",
-            "path": "output/retrieve_results/s1f4cd1b-f446-4b43-8837-232186d0w213.json"
+            "name": "s1f4cd1b-f446-4b43-8837-232186d0w213",
+            "type": "directory",
+            "path": "output/run_001/s1f4cd1b-f446-4b43-8837-232186d0w213",
+            "children": [
+              {
+                "name": "recommendations.json",
+                "type": "file",
+                "path": "output/run_001/s1f4cd1b-f446-4b43-8837-232186d0w213/recommendations.json"
+              },
+              {
+                "name": "retrieve_docs.json",
+                "type": "file",
+                "path": "output/run_001/s1f4cd1b-f446-4b43-8837-232186d0w213/retrieve_docs.json"
+              }
+            ]
           }
         ]
       },

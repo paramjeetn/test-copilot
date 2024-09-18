@@ -51,21 +51,20 @@ const generatePatientAndGuidelineData = (fullFileStructure) => {
         if (patientIdMatch) {
           const patientId = patientIdMatch[1]; // Extract patient ID
 
-          const medicalConditionPath = node.path.replace('.txt', '_medical_conditions.txt');
-          const recommendationPath = `output/recommendations/${patientId}.json`;
-          const retrieveResultPath = `output/retrieve_results/${patientId}.json`;
+          // Now, the recommendation and retrieved documents are inside a folder specific to the patient ID
+          const patientFolderPath = path.join('../../public/data/output/run_001', patientId);
+          const recommendationPath = path.join(patientFolderPath, 'recommendations.json');
+          const retrievedDocsPath = path.join(patientFolderPath, 'retrieve_docs.json');
 
           // Verify if the associated files exist
-          const medicalConditionExists = fs.existsSync(path.join('../../public/data', medicalConditionPath));
-          const recommendationExists = fs.existsSync(path.join('../../public/data', recommendationPath));
-          const retrieveResultExists = fs.existsSync(path.join('../../public/data', retrieveResultPath));
+          const recommendationExists = fs.existsSync(recommendationPath);
+          const retrievedDocsExists = fs.existsSync(retrievedDocsPath);
 
           // Store patient data using the patient_id as the key
           result.patient[patientId] = {
-            patient_profile_file_path: path.join('/data',profileFilePath),
-            medical_condition_path: medicalConditionExists ? path.join('/data', medicalConditionPath) : 'Not Found',
-            reccomendation_path: recommendationExists ? path.join('/data', recommendationPath) : 'Not Found',
-            retrieve_result_path: retrieveResultExists ? path.join('/data', retrieveResultPath): 'Not Found',
+            patient_profile_file_path: path.join('/data', profileFilePath),
+            reccomendation_path: recommendationExists ? path.join('/data/output/run_001', patientId, 'recommendations.json') : 'Not Found',
+            retrieve_result_path: retrievedDocsExists ? path.join('/data/output/run_001', patientId, 'retrieve_docs.json') : 'Not Found',
           };
         }
       }
@@ -122,6 +121,7 @@ const generatePatientAndGuidelineData = (fullFileStructure) => {
   // Process the full file structure recursively
   fullFileStructure.forEach((node) => processNode(node));
 };
+
 
 
 
