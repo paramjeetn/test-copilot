@@ -617,6 +617,23 @@
     "path": "output",
     "children": [
       {
+        "name": "golden_recommendation",
+        "type": "directory",
+        "path": "output/golden_recommendation",
+        "children": [
+          {
+            "name": "04712763-1d9d-1nn2-2312-1a5a3a1b8320.txt",
+            "type": "file",
+            "path": "output/golden_recommendation/04712763-1d9d-1nn2-2312-1a5a3a1b8320.txt"
+          },
+          {
+            "name": "04712763-1d9d-4bb0-8854-za6a1a1b8330.txt",
+            "type": "file",
+            "path": "output/golden_recommendation/04712763-1d9d-4bb0-8854-za6a1a1b8330.txt"
+          }
+        ]
+      },
+      {
         "name": "run_001",
         "type": "directory",
         "path": "output/run_001",

@@ -60,10 +60,20 @@ const generatePatientAndGuidelineData = (fullFileStructure) => {
           const recommendationExists = fs.existsSync(recommendationPath);
           const retrievedDocsExists = fs.existsSync(retrievedDocsPath);
 
+          // Check if the medical condition file exists for the patient
+          // patient_profile_001_medical_conditions
+          // patient_profile_001_medical_conditions.txt
+          // patient_profile_001.txt
+          const trimmedProfileFilePath = profileFilePath.replace('.txt', '');
+          const medicalConditionFile = `../../public/data/${trimmedProfileFilePath}_medical_conditions.txt`;
+          const medicalConditionExists = fs.existsSync(medicalConditionFile);
+          console.log(trimmedProfileFilePath)
+
           // Store patient data using the patient_id as the key
           result.patient[patientId] = {
             patient_profile_file_path: path.join('/data', profileFilePath),
-            reccomendation_path: recommendationExists ? path.join('/data/output/run_001', patientId, 'recommendations.json') : 'Not Found',
+            medical_condition_path: medicalConditionExists ? path.join('data/', `${trimmedProfileFilePath}_medical_conditions.txt`) : 'Not Found',
+            recommendation_path: recommendationExists ? path.join('/data/output/run_001', patientId, 'recommendations.json') : 'Not Found',
             retrieve_result_path: retrievedDocsExists ? path.join('/data/output/run_001', patientId, 'retrieve_docs.json') : 'Not Found',
           };
         }
