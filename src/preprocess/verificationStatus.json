@@ -1,0 +1,3426 @@
+{
+  "patients": {
+    "b255ba3e-2e18-4469-85c5-377f022875d9": {
+      "medical_condition_verified": true,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b060b3ae-a909-41a5-8175-31decab76865": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "62f20592-a08b-484b-b39a-8c13f65cf035": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ba46d77b-d469-4e02-8c87-f53bbaf53d3d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "19a9bfcf-3b8c-4367-b7c4-fccd6d4c3b78": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d97d9717-2f83-4b98-9774-d5610cd24303": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "de0a66f7-d2dc-4b90-8d74-b1fd4c296f63": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3e2122cf-1f0f-4e9d-a242-b8c88fd1de96": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4b1a34bd-7777-4cc4-9c1e-099b16df29e8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4dfa6f85-0be1-459b-949a-ca0f02bf0607": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "eef0add6-35a0-49c4-b602-866edb4a7c71": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1f198eaa-6aed-4f45-8baf-d608e869ea14": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "72a1a0ae-6c56-4f47-9621-8e61c4be56bf": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a4c417f3-6a13-4fb0-aca5-8dde1870f11f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f748844e-a1c2-46dd-8b00-b011b74c5f42": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6baa3841-ce28-458f-b99b-bbb5d96f3484": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "da8f182c-349a-471f-b704-1f83d7c59715": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "cff293a9-3c9c-4c1c-8397-b4718ab058e0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8c73e160-e109-41bc-ac39-8925f0848fa6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a1edc9c0-0f29-42eb-948e-a87218cab87f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6654d0f6-8c44-4fdf-8535-46016876848d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "75e18855-8cee-4bfb-9808-657c55cc8fc5": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e817e653-26d9-49c9-94f9-04ebea2e8ab7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "224c6a69-2af0-41a9-b114-ade85a31c293": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a9102615-2bfa-42ff-901d-a18460cefa1f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "fc1d384d-11bb-48be-ab03-6363e365bac3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "99fdf645-582b-4951-a692-ea926ddf6d48": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2920faa8-f77e-4ed8-bee1-b065b46a6245": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "713e1871-49fb-4837-92de-b23ae576bb20": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "fab381ae-ac54-4b23-ab82-d2ab0a88ffc6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "24aa6e48-baa3-4988-9e5d-72c01af5df15": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0bfc9fce-df47-4efc-af5a-6a61174296e1": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "291b77b5-b4e5-471d-87a2-2e6c26c3c67b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7529e18f-85ca-4286-9868-f142ff71205d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "84d35893-3d92-41f0-91d1-8a60d9b02f7e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "774fa734-0dd1-4fe4-9ac1-5c93ecfef29e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "26b0b081-da80-4985-8d52-c51e3952537c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "85a8cd50-5277-4cfc-a68d-b220f820389d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3df5ce7f-f1a9-4813-ba22-0e725c419158": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9fc8d700-6b1a-4e23-896e-e600dba70c34": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "68dc9452-cb44-40c2-83fa-31e597ffcb38": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0e4bfd07-f06b-4a9f-ab4f-8d4b516f3946": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a1869ced-5a1b-4b67-bcc4-f8bccb356a0a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7d8dc47c-97ed-4ad4-9a36-1f73798080e9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "07c6e9fc-24f1-4302-8245-0e17c2977d69": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ae101642-dba0-4a9a-8501-d34176fc0c7c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "62d4fb03-5631-40c7-a97f-9658e8af37c3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3cff7510-8b07-4a55-87e2-7b3406fab7f2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "90980756-b598-494e-94a3-109664555de5": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7abc9c99-d375-4c62-9ba6-ba199be9b973": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b3eb85eb-c835-49ad-91a6-dcd5ee16cabd": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "915cad98-f4f8-434a-8850-8a734757ce83": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4ed711c9-bdba-4442-ae50-1aaf5265f1cc": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "03fdf21c-908f-4ef9-8f88-365f0d7bdd92": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "04424607-7bfd-4ee3-9d9b-32e0f8bbc19d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5dbc879d-76b5-4711-8a1a-0812e96e4fc3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a20020cb-7808-42ed-9687-7d657649befe": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d06046a8-0533-4795-8250-441d0fb83e32": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "46cf2d8b-5dd3-495e-a800-3c717e0d8948": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "382d410d-2737-4271-a43a-31fabfa545b0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bf5cc107-2633-4dad-b221-94737a25af77": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3337273a-4dae-4773-81d7-993925dad581": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c52e34ed-e53a-4421-83c7-745529132505": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1abd8c95-8beb-449e-b66e-082361e21c2e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7b04b4a2-6cfe-4cb4-b505-cdad452e11d9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a973a45d-48eb-443e-b82e-2387d849ff57": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b49b0cc6-5237-4b17-b811-cd0e06d3bbf7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f257237f-3789-4b65-bd65-746bc2668207": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "53adb579-3872-4ed8-b6eb-5519a1928e5b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "461d983c-8292-45c3-a18a-1d3c7532072f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "834cc0c7-359d-4259-8ada-294219c69c7b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "73abf208-0656-4c05-88dc-bef1e5131431": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "89758f1e-0d7f-4e21-a842-900824cc2a60": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d0b73800-82e2-497e-9803-672fa762ae90": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ad7b4a76-0cd6-4af8-afea-af0a1697fb4e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8f18e3c9-97c8-4574-b9fe-ff52183a5f2d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "88922cdc-8144-4253-9f7c-3a969e7d9550": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c4a9cda6-d850-48b3-a3a3-4ea62f1dffde": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "78f26f48-c67e-4ca1-838d-1beca1e38830": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0f70fe06-4041-44cb-a476-2733c9b446c7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "da6e0a0e-3e68-4bb8-a1fb-8414f09e09c1": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5ad36cd7-fae3-4cc9-8991-32e13dbe2d30": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "34af1a9c-c481-48fa-8b85-78963184ea6a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7a774832-8617-4cf7-9c56-82bfa1185920": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "47cdac72-298f-4970-ade3-c126a0db8d95": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "85c103e8-8676-4056-8257-1f2e6d6ba799": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "655aca42-88c4-47a5-b929-6cd44d7eb44a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "89040d6d-be10-4181-96c6-1d9a5e4685a0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7f2500b2-510e-489b-816f-1d2b085081eb": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ea298718-7c14-4806-97a1-802c33ccb162": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "af728d8b-4f48-424e-9d74-d8ffd762cf3c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "aa10391b-7700-41b7-90f8-61fa4f2e8df3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0ba5d1cc-f3e2-48b4-8665-d464b582f0f9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c50b02bd-78ac-41bc-bdb6-252423ad6751": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "37c8e854-2a24-49d3-8b30-6c537a25710a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5ec412c8-34e4-4440-8feb-7a62a3794ac1": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e0282b65-1148-4dec-a4a1-8d4a83a228be": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "90c5c783-e99f-46d7-9a17-ae94fc6f4c35": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6f441f88-9ecd-4f74-a82a-f6101cb467ea": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d75c0121-095c-4173-8b12-b92d053e95a9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2859f412-9f03-4384-afd2-65f40d0a32ca": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6e5bd3fe-9706-4ac9-83b6-d8396577d7f6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "092ac9f2-2f2c-4359-822b-36f67df6a3ca": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "eef72d65-98b9-40ad-b461-0ed66bf99b11": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "37429e41-1dde-4ae1-adf3-faee3a01d21c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "41651ce0-b260-4942-9201-787b38a44e7a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "87f532c7-b5e9-4bce-9dcc-86f4d2662733": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8e1fe54b-8c29-47fe-a50f-bbac2d5bd839": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "45f9b118-ac32-4b4c-a996-c48760756fab": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9344de2b-1d50-4bc4-a961-549457708214": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b3597eba-fc9f-4f64-ba56-cb37f6d991aa": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9f993215-483f-4feb-9b90-bf6a0136665f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "86a57b61-88c2-4c4f-b9db-0b0aaa5f3fc5": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d4d7e9e9-f61b-4154-9732-71b7bc15d4a5": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1ab983b8-3ec4-42de-8fa5-6f284f1f69c2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e3138bf1-0b79-4ba3-a286-836a98c2155c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "84845953-7e50-4899-b86c-b327a0ed267d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4df701a7-dc73-48ec-a0f6-6609ab3bd474": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a7633a7f-6231-40f4-b014-3f0cdce12af0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d2a2a68b-a601-46b7-a56c-f1981938ff1a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a6e00ffd-f6e0-4e35-996a-f4fa6da0f9b9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d57ccd9e-ae2b-4434-a777-a96cb02e7a6a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9e17627b-aca5-4c69-802e-e80448c78212": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8e1a655d-7651-4cd2-9432-6748400698ff": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d2e07c58-7e6c-47ad-8478-f2d15c920fa3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "37a1db90-e5cc-4559-9170-d13258aedbef": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3594e9af-ba4b-4937-8ccc-d2156afd0ec3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3075686a-9c2e-47e9-b555-9c9090e457a7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8a8ed1e9-6a8d-4c92-b559-5e066cfad1c6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "befb865c-56a6-4574-8723-241cd43429b8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "552d5d4d-ed9f-4df8-b406-bef3ca7931ed": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4d92bb73-6273-45a7-be8f-212f54aa76b8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0474968d-70d4-4246-94c7-89b3c5a2041d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0034b77e-4dd0-4788-8537-6285097c373c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "fe7ac82e-058a-4fb6-a12e-cc02cdf62f2a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "39938022-0757-4a80-9d36-0e70bfe73957": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ba8aef50-8587-48ee-a2cc-376377f7f3be": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4aff4f18-10af-4d12-95d1-8700e4b1e7d6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "687f6791-9e36-4053-8ad2-6d2c2d399e6a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "62a6e870-9d34-4bbb-8c62-21e59537c920": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b70ba951-1838-4bf9-88b9-b284dd432889": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "fac1c031-797b-400e-89ab-bf542893bdc7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "02a7c58a-19ed-4d2b-aa23-e17c14c9dcea": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "710dc110-2574-4981-a68f-2e652a09a679": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6d0eeeb0-e1cd-4cfc-af34-c149955428ad": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "74bebe7f-78ca-4268-9d27-7e83f34cdc8f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "98f5517b-5c29-483d-8c2d-b7fffc7d2a43": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4a560493-a0be-4701-81c0-728d0448c95c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "aac33153-55a8-4c5d-bc7d-e64fbeff010d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b7aecd8d-cbf5-4a35-ac30-8b433ad9d015": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c5f2f591-4eae-4c88-b945-a300c57fa7bd": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5ed60e46-4794-421e-a8ba-f987736b75a2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4d92dcb1-c20c-44fd-980c-1906daba589e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6279f7dc-401c-4b97-ab48-81fd8a01412a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "37af048b-c37c-4c89-a343-dd38c0c18975": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ce9dcf70-f1f7-498e-b0f3-3b66e79cf340": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a0e27b81-082a-4f1f-b143-27120c2e6263": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a4fac418-c6c8-44f3-8484-043eeba72622": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2931c922-0017-48fd-a3b7-49b84c4ea73f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "809c0bdd-1377-4d23-9825-cdaac6e436b3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8ce63095-2459-49ca-ad0c-d66f594531f3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bc24bcce-584c-4d26-96dc-c5e06c894c39": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6ffb0c69-c07d-48f5-8f7f-dc2071fc6a74": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "074d7c76-3abf-47c8-8cb4-e2d180a1169e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4bd9bf20-4d9e-425a-8114-99d64e62b26a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7a699510-2b09-4de7-ba61-d1b27df07296": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4ae7edce-6ebe-4bbe-bdd7-93bbbfd9747b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a43a575e-9a15-4920-9895-bc4c84e79d7b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "36b4b7ce-42ce-4865-a758-2a396a8adf40": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b35bfe8a-7b25-4943-929a-e099da1e8a51": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3fcec7b6-7c60-4e57-9f33-9ff7770e763d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "04712763-1d9d-4bb0-8854-1a5a3a1b8320": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c0f4cd8b-f146-4b43-8837-600186d0d608": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bd81520e-baad-42fb-a183-991557fa0359": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "fc93f502-1b76-4b4d-9b4d-efe62988f3da": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "69926f26-fb94-4d74-b7dd-067b8b402a5a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "45ca2c29-200d-449e-a427-d3fdf63bf246": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d3b91637-bbbe-41f9-bf3f-baf6be68fe0c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9c83fc34-e447-4b85-b9cd-3625e9456f94": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5e5ed7d0-7f00-4426-a168-cf542b6c4b20": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5b92fef0-2e00-4c32-9704-6f48e88af706": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "31f9501e-0e61-4121-b2ac-36b6e07f70e2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "41935ffa-d660-4944-ac13-ebe2b84eff8e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "eae1dc0e-f759-497c-b6a2-223b77e1a1dd": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1a5d45d2-e13f-4c78-ac06-8769e3461f02": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d3147148-ed67-41ab-bc43-b67ef789eee9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9d55cedc-7fe0-4c0a-811e-15a081315c93": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "948c4f3a-fed5-46f3-b7dd-62a03217a22a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f064330d-4a44-4bd8-86da-fdedee5906e7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "65eb4639-6f8f-4af7-a83e-ee8ddb6f5069": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "692702dc-6c70-4b05-9aaa-d30d04020595": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6683323c-8e69-4319-ab43-9a585b307f97": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b294b752-231e-475a-9656-8c12bfdbffbb": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "71aaf6dd-44c1-4773-aea0-4e08a8069955": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4cd52263-17f9-4b4b-8459-f006f305146f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c6335ffe-428d-491c-896a-1e40cd9da9a1": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "39a67bbf-4fea-4522-b000-51dc3d4a3e7e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3274a924-ce3d-4d78-83a5-732b5eaf257d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f61c119c-4fc5-4a58-bc7f-625ec1efa6db": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1c203400-7466-4d62-9465-293c55f7346d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "21e3fb3f-97f3-42dd-ae8c-a581becb7149": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "06833c3e-a2f5-4ec6-9da6-3dda4d4786a2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2c0a0935-a3d0-4209-8594-4024561581e6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0403a096-235c-4a82-8730-cb48adbf0a48": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2cae0c31-af42-4746-a0b2-8c829d7b83ad": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "05e5522b-68f7-4236-998b-7652758e1455": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "72217732-b416-428c-9697-cd0b2d71de5f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "735cbdf9-e4fc-4719-b74b-06fad0f46b6c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b15535f0-b194-49af-95c7-8a7e873034ab": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7cc46cca-9ab9-4379-9338-e2b8070309d9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e8fcd964-3d56-443b-86fc-536c321fab40": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6cf7bdce-37a2-4c60-a4cb-ed9080b86311": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "42481a64-4c26-4491-bb8f-0db9e6c187bf": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b0941f8a-99fb-4a35-bece-493e04725383": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f17a8858-93e8-4523-b4fc-1a97ae290ccf": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "98ed3f39-66e7-4317-a6a4-2ff107211e83": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "53c0f950-9c90-48dd-81f5-4d5a3a1b79fa": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f1071122-7535-435d-a769-51bed35e0c65": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "66868bd5-283a-4b2b-bd5a-32d94b740e44": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "42b570da-557d-4548-8114-4d683c16a25a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2ac11493-f883-4902-b986-3418b2fa2110": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3506457e-811a-4d1f-b69b-d76d8ac092c4": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "36855ff4-f394-40cb-a8e7-9ee4a4c4c694": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e33442b4-f02e-45a1-802e-07d496576889": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2db36e20-dc5f-47fa-af1d-906916e15682": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "094a75af-dc08-4581-a81e-716d4ed63977": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "63029399-effc-4501-81a3-35c4cd613fc1": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "108c241e-2cfc-4467-bf32-1afa5eee77e3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a8ccf51e-b63e-4386-91a9-7b7a6994dfe3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "45ff4888-60c3-476b-bb79-fda8b33604f2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "983174f9-5819-41ae-9551-912a98fc8168": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "03258e5e-0be7-45d7-bffe-03bcfc7fd799": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "74ad5e19-9357-4f42-bd5e-c04a4ce9e1c2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e1073962-3d63-4f37-b0b0-27b97ac235f5": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d714dce6-f1f8-4907-b814-fae4849992ee": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "07603db3-cf1b-4765-aa38-7da203c1dcfc": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0a364fc0-3e3a-44b7-bf00-dafb41cf1210": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8df49c33-d21b-45a5-89e4-840b74465579": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1888d9ad-0071-4881-8310-9eda37db7cb4": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ca98aecc-f5da-4895-91c0-4dce45922e17": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "60dbd4cd-6557-40fa-95e8-6d9c4bb2f131": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3103ac22-83f2-489b-b1e6-99ccf6d6f096": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e5b72fa4-5f24-47ef-8bde-c76560d01a47": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4bbaefee-02c4-4ffa-a5b2-a7791645bfab": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e530b43a-7a9b-46b8-bbf0-31a20a757be8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c0cd3ad0-f8c4-43d0-abba-ab7f8f6abece": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d73ad773-4309-4075-bc5c-9d23e1eef240": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "497b2b7d-a86c-4813-a1ed-dcb2e1f546d3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "da2bb70a-82ae-4ba4-aa33-c5364ce4298c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1f99eee8-e539-41fc-b316-5ed4c0c28eda": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "83309a2a-73d1-44a4-8de5-87746b0e0f91": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "951ded00-9e59-40b5-9d82-b557dae2ca35": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "348b6083-1afa-4868-83de-9b0e5bd96966": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "31ff56f1-ea99-435f-967d-265f7e019658": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "27f75ca4-3ef5-4766-a51d-4e3f68a904f7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d2a0048d-8d4e-4320-b544-7fb5650d4420": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5bbe1fc3-1201-49fc-8af1-50a44141b9ae": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "713d0d67-592e-4f44-a8e3-aa1ed2093ef0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a632eacb-3bed-4fb4-a819-bea2e490df51": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f2d905c4-afd4-4dde-be1b-0ee494f753d9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2361f5b9-7bdc-4906-8d66-2a86029e8f02": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f43ce8a6-4a08-46b6-84fb-bbdf3986c2b8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "fdf1d9b3-8c86-4f90-9406-e68e54a77d8e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d13c23ff-b14a-471f-b621-7c6360b0d5cd": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "82f3c38a-bc3d-45b1-b85c-93701f4bc2f1": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "01eadf85-643c-4cfd-87e5-793774bd1b82": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e62ff44a-e610-437c-8225-b140e65d80fd": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6fb9eb81-aa1a-4a25-a632-17a9e2907c7f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a51fb8f7-0a21-4ab9-b6e0-5eed601931fa": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1326e727-e678-42d5-a61c-8222a9edf608": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a9e982cc-9bf4-4d3d-ab58-7e289e2e2bcd": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b30e99ba-24d9-484e-95c3-aed8fb493ec2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8165f46f-0824-48c4-a869-1f98a7389311": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "362968a0-3b58-4829-b110-74b8034a6d3d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9a575146-72b6-4fdd-9803-9288764c2f23": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d59fe1bd-17c6-4645-b383-d62bbe26dde8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "eb9e6c38-9443-4158-9959-d3073808a83c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "05f997e8-fa20-48ac-aae1-1cf5a18e44d8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "400f93e3-3857-4708-bf8c-39142110ea2b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0ce4f173-a9f4-44fb-b918-000a3f2b43ef": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bb0bde03-3dad-40dc-8474-8ab6b423d164": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "adb47fa9-be03-4a7c-8fba-f46a992cf6f2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "99297c19-9009-4236-a096-762ba7299954": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "37c0868a-f975-489d-9144-337cf8a70cda": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "cab72228-1377-4b27-96e4-8f6c1be838ac": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5d8f759f-7ed6-44a2-8ec4-773abc01fd61": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1b9c3e72-d594-4b40-9c10-6b3e0ca36445": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1fcef366-9d41-42ec-97da-af0ecbf2a00a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7c50f73e-805d-4ab0-b25a-0072ce1b624f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a6723b32-e404-4391-8709-967ec3f7af75": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "770094ef-6dbd-4a17-b0a3-d413524f9346": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e657af19-ad43-4d7a-bacb-369b4ed942c6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5ce0e2eb-ba0e-4b70-ad7a-9ca88fd0b134": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "41f94765-7284-46cd-8421-aa693ddabc0c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7e0cb3fd-06b5-4162-a6a0-8124429b7ad7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d92a7e50-c93c-4be2-a23d-a7d3097a02eb": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9d3c8c33-5e0e-4e21-abd9-de58abfbdb5c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c6db6e80-de31-45ec-a45a-da3112076d9d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "da735fad-f12a-4e55-8a81-8264bc71bf2b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1fef48d9-5270-4d82-a774-7d688befc841": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0b681c58-a3ba-4f20-950c-423e7e8e5436": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e5d807db-1389-4ed2-82d7-7609c92a5585": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "191a8fef-f9bd-4b7d-9289-e194b461bcea": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "92f0a101-2ba9-4758-83f1-b2710d254ac0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "075d362b-83b5-4fd1-b52e-9e54393beec2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ff7f2f38-f49c-4e49-a273-543eff014ff2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "df1c38d5-70d6-4390-90aa-9151bf78bfc9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8c9c2e9c-ca4a-4bf1-b805-8c71578c36f8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "40bb6ac4-ae8e-4c82-8076-eaf884f48125": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "30ecf57a-985f-431b-827b-ac27bcca3b5a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ba0f1af4-e8a9-4dcd-8118-061b42bc055a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "080fa309-c4ea-436b-8ba1-f68de7689bd2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7161974f-facf-46c2-b0d4-0988495e2438": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "af2f734c-fa00-402e-9ecf-bcc02c3a0088": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "173f7375-221a-4f70-84e4-37aa65288ac9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2181077a-3163-47bd-9187-cbf2933194bf": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7ecac6eb-d100-45fd-90ab-00724b0c971b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b640f0b6-4bde-4917-9ab9-9feb5e492cc7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8a1db36a-cd48-4477-93c5-7acfef7a5fcb": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e901ed7c-8cfb-400c-a212-3dff1e90121f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "29c7ce4d-e7f2-4c81-b49e-b56b8bdecdf9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9d61f583-c1bd-4b54-bf5d-1a84a1f49e55": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a6588192-c651-4dcc-a1fb-371df528bd27": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2255a681-db31-4087-90a3-ff3a6d93e177": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "16bf1984-eb86-4e34-88b3-096ca84870c6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bcfa949a-60fc-48dc-a00d-51ccb297a4f9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "602cb9dc-d783-4c6f-9a7f-766e3b858f98": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "88aeb79a-c255-48c3-8041-91f8fa24316e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "61744fda-1684-454c-92b9-380be147aa5d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ef22b6fb-a2a1-4667-ae7d-f1b33f883d42": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4c4e2a90-0c5a-482b-b77e-4d3418e2ed6a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ad19c492-1730-4b32-8037-9ed29b6a0c65": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c8e6edc1-1f55-4be9-9466-bafd4d408c06": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ff224383-ba46-4f53-b5ba-d2e65feb7ccc": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "aafbd008-b149-4039-9dd5-c61ef34c9140": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7507a276-b282-4080-bf69-d36d1de81a47": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "882ebdd6-361b-400d-8725-fac39c961ea5": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e66f8992-e244-4452-af5a-c3f4a6951714": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "858bab01-5ca9-4e54-a1ae-91b38dec36f8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "726d50d1-3fac-431b-b4b8-440d7bce81d2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0f8317bc-4f74-4f46-b9b7-301897823ba2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "49c4b6ef-3153-41ca-936f-c3c36931bb08": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ff5973f5-1ef5-4bbb-9e34-2beb3e1d135d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bcc9cf95-3c9f-4882-af05-7f8ee2da3308": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4d7991d6-0fef-4ae8-a57b-fe0f7dbcabb7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f66c47b7-9c01-470b-8b96-0708ec17979c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bdda0405-d50d-41c9-9f36-6cfd3aa43cfc": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8036f78c-a39b-407c-b799-1af233b007c4": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4661b851-8376-49c2-8e59-4eff79e702c7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bac61697-6f7e-4069-b116-8b8aee9de8a6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3f460c48-3e39-4f59-923d-fc37c576eb13": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "76f0260c-1f8c-4a0d-9d0a-866a83ce3756": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "fdf2d8b9-0d12-4680-976b-27e657b170b7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "13a14dda-6279-4f98-92ba-e180007fa2b1": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e2336093-5ec8-4af4-8686-1e468581c3f9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6acf5a1b-f21a-45ed-bb74-47db18285343": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a6b1a570-566f-4f76-9547-ad949289bab5": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e09683a4-d6dd-4259-8d69-3dc638b05f8d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "aaad2a69-50f2-44b8-8760-dbbee6da12a7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "37548bcc-7481-4c11-af7b-c0b7cc4f7659": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "69191d6a-f567-4dba-ac7a-355f994046dc": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e06fc0c1-2fc2-4edf-a833-8a3b14b37431": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "76791499-1e7f-4d64-b832-d1f75542952a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a846900d-1a67-4b21-af00-8100327d2975": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3b1051e0-05d7-4dae-8dec-f8c4fad6a5cb": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ec6ec18f-6516-4d45-a509-36f916d63385": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "cc944e74-627c-4640-8705-261a6ed1ad2b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b7f121f2-882d-4c0e-bd9e-b6a089a592e4": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3370847f-a472-4354-9df1-b742ec22c9a2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e346f729-79ca-4483-9689-050ad75236af": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "99588c6c-581c-4e49-9137-d4f6f654b610": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "fb4812ba-a247-4ae3-9f23-d6deb0faf294": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b43537d2-3739-4ec2-adf6-a5c345577210": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "38de8a19-8d11-47ed-bc86-9d7df15551d2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b229b6ae-b1c0-4e89-86fe-04ec0fb76f3a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7c9f0363-8a2e-46e0-ab03-c96649e48aaa": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b8effb37-fafe-4fed-a3dd-8e76cf81fcf4": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f0b3663d-cb3b-46b4-ba3d-4b48340c3114": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "179cc480-6d9b-478b-8438-c4200975a4dc": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c5ad024f-0e05-4f92-9155-cbe314755f54": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "93b8a387-c708-468a-ac3b-8d100a203e53": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "831f7aff-76b8-4173-affc-8f59c038b71d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7c869317-7e07-4332-9fda-326dfefa99f9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "296dc6bf-6ce9-42df-b03d-629110e05025": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "dd19549c-628e-46cc-8814-54ff6603fda1": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bdb33820-134d-4629-8242-bf4403cc067d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9cfc4ef0-62f0-4c76-b42d-3a10ef799ae2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "60bfbdb5-e52f-4fa1-bf48-893dba9b6311": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "134c0e4e-1d74-4494-a0ca-4f438d97f710": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f7d2ff3e-ecbb-4a9b-807a-54dba3705aa0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3b346e07-aaac-4656-8fad-5aceb058104e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9de7b900-8b4f-4436-a160-9e64fa7ca189": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "28b4912f-aedc-4435-b270-a87f870e518e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e43fadc7-a118-4f6b-97ff-b66d62e60bcc": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a7623261-cad7-4dcb-a6b6-4bd575236207": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "24094656-9273-4644-a413-4d2ff75cfd96": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "053b0b79-2770-41c3-bd90-4224fd8bac1a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b876a291-7c80-4954-8f3a-4da04e7ef8a5": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9854685d-f22b-403d-910d-c688a9f1e1d9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6e4154b0-96d4-46e9-b49d-06d9186548fa": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "13921c45-3e0b-4a5a-81e2-60276b473fd7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ca9dcc55-7138-4f7a-9383-56bad55f87e7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "be0196bb-2fec-4257-b606-c32c8fd18f07": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7b3780cb-0419-44bb-a1ed-a3b1e81d123a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b5d37c99-36e9-4db5-9a12-3638a7c81d61": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2d008649-4ada-4973-a79a-736136586bf0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d4aed655-cee0-4000-a864-18cc7aced0b7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b6cd0f7f-5f80-4e1a-aeac-e9ddfc08172c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ecc72dee-6198-4dd2-891d-febfdb6a82e9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bac86943-9914-40d6-af66-dedf96036933": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "85eb9165-4bc1-48c1-804e-8b58961de1b9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "218f4741-0a94-44aa-bdd1-39f0356ca76f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6f4b6953-91b2-449a-ba79-9a9a5cf98965": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "209732dc-1895-4f50-8554-4d915ef4c3f4": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9714ab12-9c9c-43fe-a08b-3eda79fc0158": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "80f963a5-7f10-4af1-bfb0-7b79dc430f32": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "db31dda8-919f-4f50-bdeb-7877282f0287": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a57d7a72-3615-4726-80b7-ded16cc9e4a4": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4dc65078-b037-4ad6-8e5d-86c6b2544e47": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5231b3df-ad7d-4594-8025-7bf7be0c5489": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a1e76e20-712e-4162-8aaf-d803197dfeb0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0827fd49-c838-4dd3-9ac4-fd92ce787e08": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "72608756-19b2-4720-99ca-127479fecee5": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2fe9e705-f367-4215-a63f-786d23de5c38": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a4dd0b1a-5b2d-4ead-ba06-0a76c6f20bbf": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b85f0331-3704-429c-b4f1-ff8e51eaf2fc": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "03b790d7-2b52-42d7-92f3-3012c9747fb8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f84df6ac-e600-4316-a395-21b91effac2e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3fc47ba7-cda2-42ef-9c62-dc80da6d3ad6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b5cb9987-a66c-42ab-a0fb-1d67b12ab589": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d5ecde95-5c3a-42c9-aea0-144aa1a10484": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a827d396-f8cc-4119-b793-eba9142050d9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "950e209e-818a-4826-8ca2-48c71557cd7c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9e0a8f27-3d08-4a1a-96b8-bd9b0de20e8e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b0249950-52d2-49ec-80c4-b64634d33567": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "50cd2221-6fb6-4741-b3a4-3662b3259240": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8bad7159-91ac-4597-8574-e87005ea985d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c2ae87be-e61b-4e35-a69a-143d2ef55eb9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ed106f6a-82c3-4724-b8c0-b2625edcd2cc": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "44be0ee7-7631-4c7d-a6cc-0a664d13509f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5d21d1f7-9e9b-43af-b52c-544ce7462d0d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5f7a8514-deaf-4510-a800-c79f673f4a35": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "023434f1-20ea-4624-b782-aa5732185440": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b59adc49-c88f-4491-b1ce-1167f1edb663": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "71e572d6-6a48-4774-974a-d017fdf7ce8f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "15cc554c-70a3-4640-8374-5af2a0fe957a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d802fe76-36a2-4bbb-b2b7-13c621cb96ad": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3113284f-2ba7-4d25-85e7-567319a9f4c6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "29e066a1-03fe-4443-b8fd-656fb500673d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d220de80-e3aa-496d-a489-a42f5ed59185": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1309cd5a-f5fc-4990-bad7-12678657aa55": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0662d327-731a-4af1-bdd5-5b3fee9b8da9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3d2a8c5a-3ebb-4f2d-be61-00af20b49bab": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "470d056f-8db2-41f6-8649-ea1813ed733c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "36cea56c-695e-4905-b7de-bf628177ba11": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9d7d8ba4-023b-434e-b266-4f910d33a576": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "17f8a782-ee01-4891-adfb-1012c4b7133b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5f11c9c0-5a36-43d0-9757-9bd9bd000eb1": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6df21128-e137-47ce-897c-ed1bb2e4484b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d75b77ce-24d3-41d2-bb8e-6b8d681ffa2b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "185dec29-c758-4e5d-b36d-31b19a28ae72": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "397da3e3-43e5-433c-b1d7-664a815eee2b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6ee9561b-8803-4067-8882-121e8e1178b1": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ec8daf70-be2f-4fb4-b54c-4c90f408b1bc": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1d47e761-15d3-423a-a051-d218c87ba45d": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8022c3e5-9fb2-4b71-94f5-dcd1b4088981": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "dd84656c-acbc-4e8a-9ae4-9f675d3e84d8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "bd39bfe7-da68-4c74-ba70-38eea8a2a3d0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "aed7e59b-6c6c-46d9-8ccb-2a2be7b841e7": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c4310477-eb23-4d7a-98e5-cee66a2ff89f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1fdc7337-aa59-4214-a6a5-168c40a1f937": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5ed5c959-8748-46ba-ab2e-f0507a9da7fb": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0aef6df9-c9b0-43c4-ab89-33e29b0877ce": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a19656ef-b683-4cf6-9769-e300fe69555c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6391781e-53c6-45ff-b2c5-795be1841908": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "576ff66f-7de9-459a-a24b-8b15843b2fc3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "54c7c440-3bef-4a14-9252-5e9b92acdb2e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d22eed08-4592-49df-b49e-218b7b3c84ee": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "703b6134-95d8-4921-bb74-4d99bd998bc4": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "cb9756e8-2a23-44af-a02c-9398fdeae2f6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d57d3979-b264-4908-9484-88a587356036": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c336e1f2-3634-4e06-a536-6b8cca98af4f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e7509aa1-67be-41b8-9462-e926f022a5a6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b40726ae-82f6-45f0-a91a-254b4b65b250": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4d0c7931-0ed0-46c3-9fd7-de085fc5be97": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "329c40bb-8f97-49b1-af1f-e13885971c14": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "2f11730b-24eb-4242-ac9e-442809dfc7d8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "09f59d75-bb77-4f20-b323-fa17cf7c5a5b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5d50a3ba-e6b1-4b85-92b1-714e6352bd0c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "06389870-d6e9-4b9d-9ab1-b507e2ff4593": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "6595f379-e41d-443e-b246-9735fc973d9f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c334850a-3269-44ea-971a-a3d7db55b1fe": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "cd0c4080-f7ff-444b-bf9f-ff04f46a3757": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "049d98ac-7f83-4b70-9f7e-c9373896353f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1234fabe-1750-4de5-b7d1-11af1d08ca73": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "39709a68-474a-43d0-9357-c9932a22cb45": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8dba48ce-5d3f-4681-b47e-8908d4dd3fe3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "a0461b87-08f2-43cc-8742-685e7ad7c02b": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "629c3829-cbf2-47f9-9444-de91f87cd946": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "66ef996d-657f-4247-8082-0618344650f0": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "7dee3e0a-796a-4efb-963a-f8b1cd87fa5f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "16f93f63-829e-44a6-9f17-5364f7f48f6e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "ad7bd60b-5059-43fd-bf0a-5a3e41bab80c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9e76df38-3126-4cbb-9a6d-df7bfd5a7888": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "1fc0747f-7079-4773-9836-824612982a97": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "67af78f5-d5af-4879-aacd-24e17d8a02ad": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9840e65b-d042-407e-824e-8d25c2cbee50": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "cdaf3d7c-f5da-4cff-beed-82603d8e34f6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b2e1917a-95a6-4644-8124-b2d3b1ba67f8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "8cb425d2-1118-46e3-b359-0a2ca9e14178": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "466ddfd5-077d-4d1e-85a8-c3d46e336ae8": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "658f1232-c947-4342-97d7-9645ee7b2766": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e9e615da-23d2-4096-8c37-1cdec950a41a": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0abf307c-dcaf-485e-b58e-0fc59d38e4a3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3c73f178-73a3-42c5-854b-cbd39927dbde": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e5bb6e87-868c-4ecd-b935-cb8a5e12c757": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "07db8fac-5a89-48f5-bc51-f9abbf126820": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "df914ee0-d410-46f1-9878-debd46562334": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "63ffbd0f-a050-454f-9ce4-0118b4629c14": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "07e290e6-a4fa-4b4f-bb45-bf1ec4a80c50": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "4239894f-4770-4d2e-a6ab-0041b475093e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "3413b8b4-6854-4dc2-922b-6f23acdc7f9c": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "18ff4110-187d-4c57-83d0-b288931e756e": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "f799a208-c6a4-4496-b796-dc0be767093f": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "cf391142-8a35-4c46-86dc-22a6f811b4f5": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "fef35fe5-7b70-4d7a-baab-629350a305c9": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e7d3bf2c-5598-4745-9551-de30e0d82fa3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "962c4027-59bf-4cd2-91e0-cfb8b3261152": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "5b69f718-81e5-44b0-bac0-48c4bdf8f756": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "e4862b69-0580-41df-b1be-b48061a48dba": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "258290b7-27e8-4b2a-ac2f-c47e93da12aa": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "95b6267d-1706-4a50-a980-2fcee7e24dd3": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "9210da6e-5198-4aae-96b9-3b69d1f7e321": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "b4774c51-e5ba-4b02-af25-e10848bd3514": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "08540382-c422-45d3-bb4f-c1e6a5ee40d2": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "44b4a695-d92e-4452-bc99-7555cad7cf16": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "d6c786a7-6be8-43d8-8d85-a3859f0e3c61": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "c2c6e5e3-0985-4c18-a480-8fd2042323b6": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "eaa24d3d-d6aa-4044-94be-d0002f1edb63": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    },
+    "0ae7d662-98f0-411c-bc06-3698493b5ee4": {
+      "medical_condition_verified": false,
+      "recommendation_verified": false,
+      "retrieved_candidates_verified": false
+    }
+  },
+  "guidelines": {
+    "manage": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": true
+    },
+    "screening": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "algo_risk_stratification": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "comorbidities": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "medical_evaluation": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "discharge_plan_from_hospitals": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "glycemic_management": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "hospital_care": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "perioperative_care": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "reducing_readmissions": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "new_cases": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "type2-youth": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "additional_drug_during_pregnancy": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "gestational_diabetes_mellitus": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "glycemic_management_in_pregnancy": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "postpartum_care": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "preconception_counselling": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "hypertension_in_nonpregnant": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "lipid_management": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "screening_for_asymptomatic_cvd": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "stage_b_heart_failure": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "additional_screening": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "classification": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "diagnostic_tests": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "risk_factors_assesment": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "insulin_therapy": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "medication_plans": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "diabetes_distress": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "dsmes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "essential_task_for_diabetes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "key_nutrition_principles": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "mnt": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "physical_behaviors_for_type2_diabetes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "psychosocial_care_for_diabetes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "approach_to_glycemic_targets": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "assesment_of_glycemic_status": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "correlation_between_a1c_and_eag": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "glucose_assesment_via_cgm": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "glycemic_goals": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "hypoglycemia_assessment_prevention_and_treatment": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "drugs_approved_for_obesity": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "glucose_lowering_medications": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "obesity_in_type2_diabetes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "weight_management": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "glucose_lowering_medications_in_type2_diabetes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "injectable_therapy_in_type2_diabetes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "therapeutic_inertia_for_type1_or_type2_diabetes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "to_do_list_for_people_with_insulin_therapy": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "diet_and_physical_activity_recommendations_for_adults": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "medication_for_diabetes_prevention": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "person_centered_care_goals_for_type2_diabetes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "screening_for_type2_diabetes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "staging_of_type1_diabetes": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "diabetic_retinopathy": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "foot_care": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "neuropathy": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "temp_test_hypt": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_001": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_002": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_003": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_004": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_005": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_006": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_007": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_008": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_009": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_010": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_011": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_012": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_013": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_014": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_015": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_016": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_017": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_018": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_019": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_020": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_021": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_022": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_023": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_024": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_025": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_026": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_027": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_028": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_029": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_030": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_031": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_032": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_033": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_034": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_035": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_036": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_037": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_038": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_039": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_040": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_041": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_042": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_043": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_044": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_045": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_046": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_047": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_048": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_049": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_050": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_051": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_052": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_053": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_054": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_055": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_056": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_057": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_058": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_059": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_060": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_061": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_062": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_063": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_064": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_065": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_066": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_067": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_068": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_069": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_070": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_071": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_072": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_073": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_074": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_075": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_076": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_077": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_078": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_079": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_080": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_081": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_082": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_083": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_084": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_085": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_086": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_087": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_088": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_089": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_090": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_091": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_092": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_093": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_094": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_095": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_096": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_097": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_098": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_099": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_101": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_102": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_103": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_104": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_105": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_106": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_107": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_108": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_109": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_110": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_111": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_112": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_113": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_114": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_115": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_116": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_117": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_118": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_119": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_120": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_121": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_122": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_123": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    },
+    "recommendation_124": {
+      "guideline_medical_condition_verified": false,
+      "guideline_criteria_verified": false
+    }
+  }
+}

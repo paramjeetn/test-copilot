@@ -53,8 +53,8 @@ const generatePatientAndGuidelineData = (fullFileStructure) => {
 
           // Now, the recommendation and retrieved documents are inside a folder specific to the patient ID
           const patientFolderPath = path.join('../../public/data/output/run_001', patientId);
-          const recommendationPath = path.join(patientFolderPath, 'recommendations.json');
-          const retrievedDocsPath = path.join(patientFolderPath, 'retrieve_docs.json');
+          const recommendationPath = path.join(patientFolderPath, 'recommendation.txt');
+          const retrievedDocsPath = path.join(patientFolderPath, 'retrieved_docs.json');
 
           // Verify if the associated files exist
           const recommendationExists = fs.existsSync(recommendationPath);
@@ -73,8 +73,8 @@ const generatePatientAndGuidelineData = (fullFileStructure) => {
           result.patient[patientId] = {
             patient_profile_file_path: path.join('/data', profileFilePath),
             medical_condition_path: medicalConditionExists ? path.join('data/', `${trimmedProfileFilePath}_medical_conditions.txt`) : 'Not Found',
-            recommendation_path: recommendationExists ? path.join('/data/output/run_001', patientId, 'recommendations.json') : 'Not Found',
-            retrieve_result_path: retrievedDocsExists ? path.join('/data/output/run_001', patientId, 'retrieve_docs.json') : 'Not Found',
+            recommendation_path: recommendationExists ? path.join('/data/output/run_001', patientId, 'recommendation.txt') : 'Not Found',
+            retrieve_result_path: retrievedDocsExists ? path.join('/data/output/run_001', patientId, 'retrieved_docs.json') : 'Not Found',
           };
         }
       }
@@ -86,7 +86,7 @@ const generatePatientAndGuidelineData = (fullFileStructure) => {
         const grandParentFolder = path.dirname(path.dirname(node.path)); // One level up from sub_guidelines
         const greatGrandParentFolder = path.dirname(grandParentFolder);  // One more level up (parent of grandparent folder)
 
-        const medicalConditionPath = node.path.replace(/guidelines\.(txt|yaml)$/, 'guidelines_medical_condition.txt');
+        const medicalConditionPath = node.path.replace(/guidelines\.(txt|yaml)$/, 'guidelines_medical_conditions.txt');
         const criteriaPath = node.path.replace(/guidelines\.(txt|yaml)$/, 'guidelines_criteria.txt');
 
         // Verify if the files exist
@@ -133,8 +133,6 @@ const generatePatientAndGuidelineData = (fullFileStructure) => {
 };
 
 
-
-
 // Function to create a new verification status file with all values set to false
 const createVerificationStatus = (patientAndGuidelineData) => {
   const verificationStatus = {
@@ -176,7 +174,7 @@ fs.writeFileSync('./patientAndGuidelineData.json', JSON.stringify(result, null, 
 console.log('Patient and guideline data generated successfully.');
 
 //Making a verification status persist 
-const verificationFilePath = path.resolve('../../public/data/output/verificationStatus.json');
+const verificationFilePath = path.resolve('./verificationStatus.json');
 const tabStructuredData = JSON.parse(fs.readFileSync('./patientAndGuidelineData.json', 'utf-8'));
 const verificationStatus = createVerificationStatus(tabStructuredData);
 await fs.promises.writeFile(verificationFilePath, JSON.stringify(verificationStatus, null, 2));
